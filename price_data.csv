@@ -1,0 +1,2161 @@
+date,state,crop,modal_price_rs_per_quintal
+2019-01-01,Punjab,Wheat,2037.3
+2019-02-01,Punjab,Wheat,1971.7
+2019-03-01,Punjab,Wheat,2014.8
+2019-04-01,Punjab,Wheat,2062.4
+2019-05-01,Punjab,Wheat,2111.0
+2019-06-01,Punjab,Wheat,2109.7
+2019-07-01,Punjab,Wheat,2117.1
+2019-08-01,Punjab,Wheat,2154.0
+2019-09-01,Punjab,Wheat,2176.6
+2019-10-01,Punjab,Wheat,2048.5
+2019-11-01,Punjab,Wheat,2051.1
+2019-12-01,Punjab,Wheat,2015.2
+2020-01-01,Punjab,Wheat,2041.9
+2020-02-01,Punjab,Wheat,2241.4
+2020-03-01,Punjab,Wheat,2282.7
+2020-04-01,Punjab,Wheat,2277.4
+2020-05-01,Punjab,Wheat,2356.7
+2020-06-01,Punjab,Wheat,2407.6
+2020-07-01,Punjab,Wheat,2455.6
+2020-08-01,Punjab,Wheat,2519.1
+2020-09-01,Punjab,Wheat,2695.2
+2020-10-01,Punjab,Wheat,2625.1
+2020-11-01,Punjab,Wheat,2684.2
+2020-12-01,Punjab,Wheat,2631.1
+2021-01-01,Punjab,Wheat,2696.1
+2021-02-01,Punjab,Wheat,2642.1
+2021-03-01,Punjab,Wheat,2628.4
+2021-04-01,Punjab,Wheat,2623.7
+2021-05-01,Punjab,Wheat,2719.3
+2021-06-01,Punjab,Wheat,2813.8
+2021-07-01,Punjab,Wheat,2728.6
+2021-08-01,Punjab,Wheat,2753.8
+2021-09-01,Punjab,Wheat,2716.5
+2021-10-01,Punjab,Wheat,2635.4
+2021-11-01,Punjab,Wheat,2639.8
+2021-12-01,Punjab,Wheat,2636.8
+2022-01-01,Punjab,Wheat,2850.8
+2022-02-01,Punjab,Wheat,2909.9
+2022-03-01,Punjab,Wheat,2810.5
+2022-04-01,Punjab,Wheat,2782.7
+2022-05-01,Punjab,Wheat,2887.9
+2022-06-01,Punjab,Wheat,3090.1
+2022-07-01,Punjab,Wheat,2964.8
+2022-08-01,Punjab,Wheat,2819.2
+2022-09-01,Punjab,Wheat,3000.5
+2022-10-01,Punjab,Wheat,3060.1
+2022-11-01,Punjab,Wheat,3005.1
+2022-12-01,Punjab,Wheat,3078.1
+2023-01-01,Punjab,Wheat,2857.9
+2023-02-01,Punjab,Wheat,2880.2
+2023-03-01,Punjab,Wheat,2929.8
+2023-04-01,Punjab,Wheat,3032.3
+2023-05-01,Punjab,Wheat,2961.0
+2023-06-01,Punjab,Wheat,2989.6
+2023-07-01,Punjab,Wheat,2927.9
+2023-08-01,Punjab,Wheat,2972.6
+2023-09-01,Punjab,Wheat,2915.7
+2023-10-01,Punjab,Wheat,2903.5
+2023-11-01,Punjab,Wheat,2840.1
+2023-12-01,Punjab,Wheat,2919.1
+2024-01-01,Punjab,Wheat,3017.9
+2024-02-01,Punjab,Wheat,3019.8
+2024-03-01,Punjab,Wheat,3045.5
+2024-04-01,Punjab,Wheat,2934.3
+2024-05-01,Punjab,Wheat,2928.4
+2024-06-01,Punjab,Wheat,2944.6
+2024-07-01,Punjab,Wheat,3198.7
+2024-08-01,Punjab,Wheat,3115.6
+2024-09-01,Punjab,Wheat,3277.7
+2024-10-01,Punjab,Wheat,3402.9
+2024-11-01,Punjab,Wheat,3459.6
+2024-12-01,Punjab,Wheat,3671.4
+2019-01-01,Punjab,Rice,2095.3
+2019-02-01,Punjab,Rice,2181.6
+2019-03-01,Punjab,Rice,2263.7
+2019-04-01,Punjab,Rice,2243.2
+2019-05-01,Punjab,Rice,2181.1
+2019-06-01,Punjab,Rice,2187.4
+2019-07-01,Punjab,Rice,2158.9
+2019-08-01,Punjab,Rice,2174.6
+2019-09-01,Punjab,Rice,2267.4
+2019-10-01,Punjab,Rice,2259.7
+2019-11-01,Punjab,Rice,2277.1
+2019-12-01,Punjab,Rice,2300.2
+2020-01-01,Punjab,Rice,2372.1
+2020-02-01,Punjab,Rice,2246.5
+2020-03-01,Punjab,Rice,2227.3
+2020-04-01,Punjab,Rice,2257.7
+2020-05-01,Punjab,Rice,2349.5
+2020-06-01,Punjab,Rice,2337.9
+2020-07-01,Punjab,Rice,2239.2
+2020-08-01,Punjab,Rice,2296.9
+2020-09-01,Punjab,Rice,2278.1
+2020-10-01,Punjab,Rice,2225.1
+2020-11-01,Punjab,Rice,2207.1
+2020-12-01,Punjab,Rice,2215.0
+2021-01-01,Punjab,Rice,2196.9
+2021-02-01,Punjab,Rice,2083.1
+2021-03-01,Punjab,Rice,2150.2
+2021-04-01,Punjab,Rice,2241.6
+2021-05-01,Punjab,Rice,2299.4
+2021-06-01,Punjab,Rice,2247.7
+2021-07-01,Punjab,Rice,2255.0
+2021-08-01,Punjab,Rice,2274.8
+2021-09-01,Punjab,Rice,2332.4
+2021-10-01,Punjab,Rice,2395.8
+2021-11-01,Punjab,Rice,2369.3
+2021-12-01,Punjab,Rice,2394.8
+2022-01-01,Punjab,Rice,2444.3
+2022-02-01,Punjab,Rice,2560.4
+2022-03-01,Punjab,Rice,2629.5
+2022-04-01,Punjab,Rice,2706.6
+2022-05-01,Punjab,Rice,2734.7
+2022-06-01,Punjab,Rice,2862.3
+2022-07-01,Punjab,Rice,2919.1
+2022-08-01,Punjab,Rice,2877.0
+2022-09-01,Punjab,Rice,3012.7
+2022-10-01,Punjab,Rice,3097.1
+2022-11-01,Punjab,Rice,3087.2
+2022-12-01,Punjab,Rice,3073.5
+2023-01-01,Punjab,Rice,3123.6
+2023-02-01,Punjab,Rice,3187.9
+2023-03-01,Punjab,Rice,3230.1
+2023-04-01,Punjab,Rice,3282.9
+2023-05-01,Punjab,Rice,3460.9
+2023-06-01,Punjab,Rice,3590.6
+2023-07-01,Punjab,Rice,3640.4
+2023-08-01,Punjab,Rice,3766.1
+2023-09-01,Punjab,Rice,3694.7
+2023-10-01,Punjab,Rice,3768.0
+2023-11-01,Punjab,Rice,3986.4
+2023-12-01,Punjab,Rice,3997.0
+2024-01-01,Punjab,Rice,3938.1
+2024-02-01,Punjab,Rice,3900.0
+2024-03-01,Punjab,Rice,3815.5
+2024-04-01,Punjab,Rice,3764.5
+2024-05-01,Punjab,Rice,3757.2
+2024-06-01,Punjab,Rice,3645.4
+2024-07-01,Punjab,Rice,3678.7
+2024-08-01,Punjab,Rice,3801.8
+2024-09-01,Punjab,Rice,3742.6
+2024-10-01,Punjab,Rice,3930.8
+2024-11-01,Punjab,Rice,4020.1
+2024-12-01,Punjab,Rice,4167.0
+2019-01-01,Punjab,Cotton,6319.6
+2019-02-01,Punjab,Cotton,6664.3
+2019-03-01,Punjab,Cotton,6769.3
+2019-04-01,Punjab,Cotton,7018.0
+2019-05-01,Punjab,Cotton,6619.4
+2019-06-01,Punjab,Cotton,6345.9
+2019-07-01,Punjab,Cotton,6598.8
+2019-08-01,Punjab,Cotton,6307.8
+2019-09-01,Punjab,Cotton,6511.9
+2019-10-01,Punjab,Cotton,6073.9
+2019-11-01,Punjab,Cotton,6393.7
+2019-12-01,Punjab,Cotton,6006.9
+2020-01-01,Punjab,Cotton,6224.3
+2020-02-01,Punjab,Cotton,6474.5
+2020-03-01,Punjab,Cotton,6271.4
+2020-04-01,Punjab,Cotton,6511.6
+2020-05-01,Punjab,Cotton,6649.4
+2020-06-01,Punjab,Cotton,6503.2
+2020-07-01,Punjab,Cotton,6195.3
+2020-08-01,Punjab,Cotton,5580.9
+2020-09-01,Punjab,Cotton,5727.1
+2020-10-01,Punjab,Cotton,5280.4
+2020-11-01,Punjab,Cotton,5342.7
+2020-12-01,Punjab,Cotton,5300.4
+2021-01-01,Punjab,Cotton,5528.7
+2021-02-01,Punjab,Cotton,5472.7
+2021-03-01,Punjab,Cotton,5410.1
+2021-04-01,Punjab,Cotton,5661.3
+2021-05-01,Punjab,Cotton,5804.0
+2021-06-01,Punjab,Cotton,5945.9
+2021-07-01,Punjab,Cotton,6141.5
+2021-08-01,Punjab,Cotton,5674.8
+2021-09-01,Punjab,Cotton,5948.9
+2021-10-01,Punjab,Cotton,6187.9
+2021-11-01,Punjab,Cotton,5887.6
+2021-12-01,Punjab,Cotton,5847.1
+2022-01-01,Punjab,Cotton,5871.1
+2022-02-01,Punjab,Cotton,5865.0
+2022-03-01,Punjab,Cotton,6009.0
+2022-04-01,Punjab,Cotton,6516.0
+2022-05-01,Punjab,Cotton,6944.4
+2022-06-01,Punjab,Cotton,6500.2
+2022-07-01,Punjab,Cotton,6768.0
+2022-08-01,Punjab,Cotton,7306.4
+2022-09-01,Punjab,Cotton,7512.6
+2022-10-01,Punjab,Cotton,8009.5
+2022-11-01,Punjab,Cotton,8937.1
+2022-12-01,Punjab,Cotton,9490.4
+2023-01-01,Punjab,Cotton,9677.9
+2023-02-01,Punjab,Cotton,10287.0
+2023-03-01,Punjab,Cotton,10434.0
+2023-04-01,Punjab,Cotton,10517.6
+2023-05-01,Punjab,Cotton,10390.8
+2023-06-01,Punjab,Cotton,11348.5
+2023-07-01,Punjab,Cotton,10928.3
+2023-08-01,Punjab,Cotton,11918.4
+2023-09-01,Punjab,Cotton,12327.9
+2023-10-01,Punjab,Cotton,11477.1
+2023-11-01,Punjab,Cotton,11782.1
+2023-12-01,Punjab,Cotton,10515.0
+2024-01-01,Punjab,Cotton,10937.3
+2024-02-01,Punjab,Cotton,11530.9
+2024-03-01,Punjab,Cotton,11234.5
+2024-04-01,Punjab,Cotton,11385.2
+2024-05-01,Punjab,Cotton,12672.8
+2024-06-01,Punjab,Cotton,12417.1
+2024-07-01,Punjab,Cotton,11795.2
+2024-08-01,Punjab,Cotton,12831.4
+2024-09-01,Punjab,Cotton,14291.2
+2024-10-01,Punjab,Cotton,14393.2
+2024-11-01,Punjab,Cotton,15278.5
+2024-12-01,Punjab,Cotton,16487.7
+2019-01-01,Uttar Pradesh,Wheat,2093.8
+2019-02-01,Uttar Pradesh,Wheat,2213.8
+2019-03-01,Uttar Pradesh,Wheat,2265.2
+2019-04-01,Uttar Pradesh,Wheat,2218.7
+2019-05-01,Uttar Pradesh,Wheat,2364.5
+2019-06-01,Uttar Pradesh,Wheat,2340.7
+2019-07-01,Uttar Pradesh,Wheat,2331.4
+2019-08-01,Uttar Pradesh,Wheat,2370.5
+2019-09-01,Uttar Pradesh,Wheat,2497.5
+2019-10-01,Uttar Pradesh,Wheat,2579.2
+2019-11-01,Uttar Pradesh,Wheat,2629.8
+2019-12-01,Uttar Pradesh,Wheat,2685.0
+2020-01-01,Uttar Pradesh,Wheat,2706.8
+2020-02-01,Uttar Pradesh,Wheat,2770.1
+2020-03-01,Uttar Pradesh,Wheat,2576.1
+2020-04-01,Uttar Pradesh,Wheat,2568.5
+2020-05-01,Uttar Pradesh,Wheat,2602.3
+2020-06-01,Uttar Pradesh,Wheat,2527.4
+2020-07-01,Uttar Pradesh,Wheat,2572.4
+2020-08-01,Uttar Pradesh,Wheat,2573.0
+2020-09-01,Uttar Pradesh,Wheat,2726.5
+2020-10-01,Uttar Pradesh,Wheat,2874.9
+2020-11-01,Uttar Pradesh,Wheat,2854.8
+2020-12-01,Uttar Pradesh,Wheat,2861.9
+2021-01-01,Uttar Pradesh,Wheat,2875.1
+2021-02-01,Uttar Pradesh,Wheat,2854.7
+2021-03-01,Uttar Pradesh,Wheat,2889.2
+2021-04-01,Uttar Pradesh,Wheat,2840.5
+2021-05-01,Uttar Pradesh,Wheat,2760.4
+2021-06-01,Uttar Pradesh,Wheat,2828.6
+2021-07-01,Uttar Pradesh,Wheat,2899.6
+2021-08-01,Uttar Pradesh,Wheat,2847.9
+2021-09-01,Uttar Pradesh,Wheat,2944.0
+2021-10-01,Uttar Pradesh,Wheat,2908.4
+2021-11-01,Uttar Pradesh,Wheat,2951.2
+2021-12-01,Uttar Pradesh,Wheat,3044.9
+2022-01-01,Uttar Pradesh,Wheat,3062.6
+2022-02-01,Uttar Pradesh,Wheat,3124.6
+2022-03-01,Uttar Pradesh,Wheat,3095.4
+2022-04-01,Uttar Pradesh,Wheat,3095.6
+2022-05-01,Uttar Pradesh,Wheat,3094.6
+2022-06-01,Uttar Pradesh,Wheat,3043.4
+2022-07-01,Uttar Pradesh,Wheat,3045.8
+2022-08-01,Uttar Pradesh,Wheat,2923.1
+2022-09-01,Uttar Pradesh,Wheat,2899.5
+2022-10-01,Uttar Pradesh,Wheat,2894.8
+2022-11-01,Uttar Pradesh,Wheat,2892.9
+2022-12-01,Uttar Pradesh,Wheat,2892.1
+2023-01-01,Uttar Pradesh,Wheat,2906.5
+2023-02-01,Uttar Pradesh,Wheat,2967.5
+2023-03-01,Uttar Pradesh,Wheat,3064.2
+2023-04-01,Uttar Pradesh,Wheat,3022.5
+2023-05-01,Uttar Pradesh,Wheat,2930.7
+2023-06-01,Uttar Pradesh,Wheat,2856.1
+2023-07-01,Uttar Pradesh,Wheat,2831.6
+2023-08-01,Uttar Pradesh,Wheat,2819.8
+2023-09-01,Uttar Pradesh,Wheat,2773.2
+2023-10-01,Uttar Pradesh,Wheat,2684.1
+2023-11-01,Uttar Pradesh,Wheat,2666.2
+2023-12-01,Uttar Pradesh,Wheat,2699.5
+2024-01-01,Uttar Pradesh,Wheat,2766.4
+2024-02-01,Uttar Pradesh,Wheat,2737.9
+2024-03-01,Uttar Pradesh,Wheat,2720.9
+2024-04-01,Uttar Pradesh,Wheat,2661.2
+2024-05-01,Uttar Pradesh,Wheat,2674.3
+2024-06-01,Uttar Pradesh,Wheat,2621.8
+2024-07-01,Uttar Pradesh,Wheat,2683.2
+2024-08-01,Uttar Pradesh,Wheat,2555.9
+2024-09-01,Uttar Pradesh,Wheat,2545.4
+2024-10-01,Uttar Pradesh,Wheat,2586.3
+2024-11-01,Uttar Pradesh,Wheat,2618.9
+2024-12-01,Uttar Pradesh,Wheat,2850.0
+2019-01-01,Uttar Pradesh,Rice,1820.4
+2019-02-01,Uttar Pradesh,Rice,1746.2
+2019-03-01,Uttar Pradesh,Rice,1755.1
+2019-04-01,Uttar Pradesh,Rice,1728.3
+2019-05-01,Uttar Pradesh,Rice,1784.2
+2019-06-01,Uttar Pradesh,Rice,1771.5
+2019-07-01,Uttar Pradesh,Rice,1780.3
+2019-08-01,Uttar Pradesh,Rice,1764.4
+2019-09-01,Uttar Pradesh,Rice,1862.7
+2019-10-01,Uttar Pradesh,Rice,1862.2
+2019-11-01,Uttar Pradesh,Rice,1970.2
+2019-12-01,Uttar Pradesh,Rice,2029.4
+2020-01-01,Uttar Pradesh,Rice,2071.5
+2020-02-01,Uttar Pradesh,Rice,2107.6
+2020-03-01,Uttar Pradesh,Rice,2145.5
+2020-04-01,Uttar Pradesh,Rice,2049.0
+2020-05-01,Uttar Pradesh,Rice,2048.9
+2020-06-01,Uttar Pradesh,Rice,2111.9
+2020-07-01,Uttar Pradesh,Rice,2126.2
+2020-08-01,Uttar Pradesh,Rice,2062.9
+2020-09-01,Uttar Pradesh,Rice,2077.4
+2020-10-01,Uttar Pradesh,Rice,2191.1
+2020-11-01,Uttar Pradesh,Rice,2283.4
+2020-12-01,Uttar Pradesh,Rice,2297.7
+2021-01-01,Uttar Pradesh,Rice,2374.6
+2021-02-01,Uttar Pradesh,Rice,2368.6
+2021-03-01,Uttar Pradesh,Rice,2276.5
+2021-04-01,Uttar Pradesh,Rice,2236.1
+2021-05-01,Uttar Pradesh,Rice,2347.7
+2021-06-01,Uttar Pradesh,Rice,2348.5
+2021-07-01,Uttar Pradesh,Rice,2352.1
+2021-08-01,Uttar Pradesh,Rice,2352.6
+2021-09-01,Uttar Pradesh,Rice,2494.2
+2021-10-01,Uttar Pradesh,Rice,2625.3
+2021-11-01,Uttar Pradesh,Rice,2805.1
+2021-12-01,Uttar Pradesh,Rice,2815.4
+2022-01-01,Uttar Pradesh,Rice,2859.5
+2022-02-01,Uttar Pradesh,Rice,2763.1
+2022-03-01,Uttar Pradesh,Rice,2893.9
+2022-04-01,Uttar Pradesh,Rice,2823.5
+2022-05-01,Uttar Pradesh,Rice,2861.3
+2022-06-01,Uttar Pradesh,Rice,2798.4
+2022-07-01,Uttar Pradesh,Rice,2776.4
+2022-08-01,Uttar Pradesh,Rice,2736.5
+2022-09-01,Uttar Pradesh,Rice,2714.5
+2022-10-01,Uttar Pradesh,Rice,2697.7
+2022-11-01,Uttar Pradesh,Rice,2679.9
+2022-12-01,Uttar Pradesh,Rice,2761.8
+2023-01-01,Uttar Pradesh,Rice,2700.2
+2023-02-01,Uttar Pradesh,Rice,2736.4
+2023-03-01,Uttar Pradesh,Rice,2846.7
+2023-04-01,Uttar Pradesh,Rice,2827.9
+2023-05-01,Uttar Pradesh,Rice,2794.1
+2023-06-01,Uttar Pradesh,Rice,2798.5
+2023-07-01,Uttar Pradesh,Rice,2910.8
+2023-08-01,Uttar Pradesh,Rice,2950.4
+2023-09-01,Uttar Pradesh,Rice,2932.9
+2023-10-01,Uttar Pradesh,Rice,2996.2
+2023-11-01,Uttar Pradesh,Rice,2931.3
+2023-12-01,Uttar Pradesh,Rice,3008.9
+2024-01-01,Uttar Pradesh,Rice,3065.3
+2024-02-01,Uttar Pradesh,Rice,3062.4
+2024-03-01,Uttar Pradesh,Rice,3015.1
+2024-04-01,Uttar Pradesh,Rice,2964.7
+2024-05-01,Uttar Pradesh,Rice,3030.0
+2024-06-01,Uttar Pradesh,Rice,3154.6
+2024-07-01,Uttar Pradesh,Rice,3125.6
+2024-08-01,Uttar Pradesh,Rice,3190.7
+2024-09-01,Uttar Pradesh,Rice,3036.9
+2024-10-01,Uttar Pradesh,Rice,3014.4
+2024-11-01,Uttar Pradesh,Rice,3036.7
+2024-12-01,Uttar Pradesh,Rice,2986.0
+2019-01-01,Uttar Pradesh,Sugarcane,337.6
+2019-02-01,Uttar Pradesh,Sugarcane,335.4
+2019-03-01,Uttar Pradesh,Sugarcane,339.1
+2019-04-01,Uttar Pradesh,Sugarcane,340.0
+2019-05-01,Uttar Pradesh,Sugarcane,328.4
+2019-06-01,Uttar Pradesh,Sugarcane,317.9
+2019-07-01,Uttar Pradesh,Sugarcane,316.6
+2019-08-01,Uttar Pradesh,Sugarcane,321.3
+2019-09-01,Uttar Pradesh,Sugarcane,307.4
+2019-10-01,Uttar Pradesh,Sugarcane,306.6
+2019-11-01,Uttar Pradesh,Sugarcane,305.5
+2019-12-01,Uttar Pradesh,Sugarcane,314.9
+2020-01-01,Uttar Pradesh,Sugarcane,314.4
+2020-02-01,Uttar Pradesh,Sugarcane,318.4
+2020-03-01,Uttar Pradesh,Sugarcane,321.0
+2020-04-01,Uttar Pradesh,Sugarcane,310.6
+2020-05-01,Uttar Pradesh,Sugarcane,316.8
+2020-06-01,Uttar Pradesh,Sugarcane,320.2
+2020-07-01,Uttar Pradesh,Sugarcane,325.2
+2020-08-01,Uttar Pradesh,Sugarcane,350.5
+2020-09-01,Uttar Pradesh,Sugarcane,339.6
+2020-10-01,Uttar Pradesh,Sugarcane,352.3
+2020-11-01,Uttar Pradesh,Sugarcane,352.6
+2020-12-01,Uttar Pradesh,Sugarcane,356.4
+2021-01-01,Uttar Pradesh,Sugarcane,358.1
+2021-02-01,Uttar Pradesh,Sugarcane,357.3
+2021-03-01,Uttar Pradesh,Sugarcane,355.7
+2021-04-01,Uttar Pradesh,Sugarcane,360.0
+2021-05-01,Uttar Pradesh,Sugarcane,352.4
+2021-06-01,Uttar Pradesh,Sugarcane,359.5
+2021-07-01,Uttar Pradesh,Sugarcane,359.2
+2021-08-01,Uttar Pradesh,Sugarcane,354.2
+2021-09-01,Uttar Pradesh,Sugarcane,353.6
+2021-10-01,Uttar Pradesh,Sugarcane,363.9
+2021-11-01,Uttar Pradesh,Sugarcane,362.5
+2021-12-01,Uttar Pradesh,Sugarcane,366.9
+2022-01-01,Uttar Pradesh,Sugarcane,364.1
+2022-02-01,Uttar Pradesh,Sugarcane,371.1
+2022-03-01,Uttar Pradesh,Sugarcane,377.9
+2022-04-01,Uttar Pradesh,Sugarcane,392.8
+2022-05-01,Uttar Pradesh,Sugarcane,394.0
+2022-06-01,Uttar Pradesh,Sugarcane,401.4
+2022-07-01,Uttar Pradesh,Sugarcane,404.8
+2022-08-01,Uttar Pradesh,Sugarcane,417.0
+2022-09-01,Uttar Pradesh,Sugarcane,414.3
+2022-10-01,Uttar Pradesh,Sugarcane,422.4
+2022-11-01,Uttar Pradesh,Sugarcane,423.5
+2022-12-01,Uttar Pradesh,Sugarcane,425.4
+2023-01-01,Uttar Pradesh,Sugarcane,428.4
+2023-02-01,Uttar Pradesh,Sugarcane,432.8
+2023-03-01,Uttar Pradesh,Sugarcane,434.3
+2023-04-01,Uttar Pradesh,Sugarcane,438.6
+2023-05-01,Uttar Pradesh,Sugarcane,453.9
+2023-06-01,Uttar Pradesh,Sugarcane,465.0
+2023-07-01,Uttar Pradesh,Sugarcane,475.4
+2023-08-01,Uttar Pradesh,Sugarcane,474.7
+2023-09-01,Uttar Pradesh,Sugarcane,470.2
+2023-10-01,Uttar Pradesh,Sugarcane,481.2
+2023-11-01,Uttar Pradesh,Sugarcane,491.7
+2023-12-01,Uttar Pradesh,Sugarcane,507.6
+2024-01-01,Uttar Pradesh,Sugarcane,504.8
+2024-02-01,Uttar Pradesh,Sugarcane,505.6
+2024-03-01,Uttar Pradesh,Sugarcane,493.5
+2024-04-01,Uttar Pradesh,Sugarcane,492.9
+2024-05-01,Uttar Pradesh,Sugarcane,504.9
+2024-06-01,Uttar Pradesh,Sugarcane,504.0
+2024-07-01,Uttar Pradesh,Sugarcane,513.2
+2024-08-01,Uttar Pradesh,Sugarcane,514.9
+2024-09-01,Uttar Pradesh,Sugarcane,521.3
+2024-10-01,Uttar Pradesh,Sugarcane,513.7
+2024-11-01,Uttar Pradesh,Sugarcane,517.5
+2024-12-01,Uttar Pradesh,Sugarcane,492.5
+2019-01-01,Maharashtra,Cotton,6412.9
+2019-02-01,Maharashtra,Cotton,6727.3
+2019-03-01,Maharashtra,Cotton,6944.9
+2019-04-01,Maharashtra,Cotton,7568.8
+2019-05-01,Maharashtra,Cotton,7236.7
+2019-06-01,Maharashtra,Cotton,7980.3
+2019-07-01,Maharashtra,Cotton,8448.2
+2019-08-01,Maharashtra,Cotton,8407.2
+2019-09-01,Maharashtra,Cotton,8991.3
+2019-10-01,Maharashtra,Cotton,8519.2
+2019-11-01,Maharashtra,Cotton,8199.6
+2019-12-01,Maharashtra,Cotton,7986.1
+2020-01-01,Maharashtra,Cotton,7811.5
+2020-02-01,Maharashtra,Cotton,7417.4
+2020-03-01,Maharashtra,Cotton,7961.7
+2020-04-01,Maharashtra,Cotton,7908.1
+2020-05-01,Maharashtra,Cotton,8119.7
+2020-06-01,Maharashtra,Cotton,7932.3
+2020-07-01,Maharashtra,Cotton,7211.6
+2020-08-01,Maharashtra,Cotton,7375.0
+2020-09-01,Maharashtra,Cotton,6667.0
+2020-10-01,Maharashtra,Cotton,6692.4
+2020-11-01,Maharashtra,Cotton,6243.9
+2020-12-01,Maharashtra,Cotton,6960.6
+2021-01-01,Maharashtra,Cotton,7352.2
+2021-02-01,Maharashtra,Cotton,7444.8
+2021-03-01,Maharashtra,Cotton,8007.5
+2021-04-01,Maharashtra,Cotton,7698.3
+2021-05-01,Maharashtra,Cotton,7984.1
+2021-06-01,Maharashtra,Cotton,8133.6
+2021-07-01,Maharashtra,Cotton,8315.4
+2021-08-01,Maharashtra,Cotton,8956.4
+2021-09-01,Maharashtra,Cotton,9382.6
+2021-10-01,Maharashtra,Cotton,9600.4
+2021-11-01,Maharashtra,Cotton,8807.7
+2021-12-01,Maharashtra,Cotton,8410.4
+2022-01-01,Maharashtra,Cotton,8411.9
+2022-02-01,Maharashtra,Cotton,8512.2
+2022-03-01,Maharashtra,Cotton,8050.1
+2022-04-01,Maharashtra,Cotton,9162.5
+2022-05-01,Maharashtra,Cotton,9986.5
+2022-06-01,Maharashtra,Cotton,10391.7
+2022-07-01,Maharashtra,Cotton,10515.6
+2022-08-01,Maharashtra,Cotton,10478.5
+2022-09-01,Maharashtra,Cotton,10018.9
+2022-10-01,Maharashtra,Cotton,10136.6
+2022-11-01,Maharashtra,Cotton,10351.6
+2022-12-01,Maharashtra,Cotton,9726.4
+2023-01-01,Maharashtra,Cotton,9969.2
+2023-02-01,Maharashtra,Cotton,9953.6
+2023-03-01,Maharashtra,Cotton,8993.4
+2023-04-01,Maharashtra,Cotton,8639.3
+2023-05-01,Maharashtra,Cotton,8511.2
+2023-06-01,Maharashtra,Cotton,9450.6
+2023-07-01,Maharashtra,Cotton,9812.0
+2023-08-01,Maharashtra,Cotton,9178.9
+2023-09-01,Maharashtra,Cotton,9492.8
+2023-10-01,Maharashtra,Cotton,8767.2
+2023-11-01,Maharashtra,Cotton,9345.6
+2023-12-01,Maharashtra,Cotton,9171.9
+2024-01-01,Maharashtra,Cotton,9188.0
+2024-02-01,Maharashtra,Cotton,9911.7
+2024-03-01,Maharashtra,Cotton,9289.3
+2024-04-01,Maharashtra,Cotton,8652.9
+2024-05-01,Maharashtra,Cotton,8444.8
+2024-06-01,Maharashtra,Cotton,8987.4
+2024-07-01,Maharashtra,Cotton,8318.0
+2024-08-01,Maharashtra,Cotton,7105.3
+2024-09-01,Maharashtra,Cotton,6986.8
+2024-10-01,Maharashtra,Cotton,7248.7
+2024-11-01,Maharashtra,Cotton,7773.1
+2024-12-01,Maharashtra,Cotton,7632.0
+2019-01-01,Maharashtra,Soybean,4099.6
+2019-02-01,Maharashtra,Soybean,4050.3
+2019-03-01,Maharashtra,Soybean,4114.1
+2019-04-01,Maharashtra,Soybean,4230.3
+2019-05-01,Maharashtra,Soybean,4155.1
+2019-06-01,Maharashtra,Soybean,4191.4
+2019-07-01,Maharashtra,Soybean,3719.1
+2019-08-01,Maharashtra,Soybean,3629.4
+2019-09-01,Maharashtra,Soybean,3737.0
+2019-10-01,Maharashtra,Soybean,3588.7
+2019-11-01,Maharashtra,Soybean,3625.9
+2019-12-01,Maharashtra,Soybean,3730.4
+2020-01-01,Maharashtra,Soybean,3694.7
+2020-02-01,Maharashtra,Soybean,3749.7
+2020-03-01,Maharashtra,Soybean,3600.3
+2020-04-01,Maharashtra,Soybean,3588.3
+2020-05-01,Maharashtra,Soybean,3718.2
+2020-06-01,Maharashtra,Soybean,3772.7
+2020-07-01,Maharashtra,Soybean,3693.8
+2020-08-01,Maharashtra,Soybean,3762.0
+2020-09-01,Maharashtra,Soybean,3920.9
+2020-10-01,Maharashtra,Soybean,3563.3
+2020-11-01,Maharashtra,Soybean,3789.4
+2020-12-01,Maharashtra,Soybean,3755.4
+2021-01-01,Maharashtra,Soybean,3858.6
+2021-02-01,Maharashtra,Soybean,4107.1
+2021-03-01,Maharashtra,Soybean,3862.5
+2021-04-01,Maharashtra,Soybean,3755.9
+2021-05-01,Maharashtra,Soybean,3729.2
+2021-06-01,Maharashtra,Soybean,3614.6
+2021-07-01,Maharashtra,Soybean,3943.9
+2021-08-01,Maharashtra,Soybean,3810.9
+2021-09-01,Maharashtra,Soybean,3738.3
+2021-10-01,Maharashtra,Soybean,3804.0
+2021-11-01,Maharashtra,Soybean,3612.0
+2021-12-01,Maharashtra,Soybean,3569.3
+2022-01-01,Maharashtra,Soybean,3648.7
+2022-02-01,Maharashtra,Soybean,3614.5
+2022-03-01,Maharashtra,Soybean,3622.0
+2022-04-01,Maharashtra,Soybean,3553.5
+2022-05-01,Maharashtra,Soybean,3318.1
+2022-06-01,Maharashtra,Soybean,3393.1
+2022-07-01,Maharashtra,Soybean,3705.5
+2022-08-01,Maharashtra,Soybean,3737.1
+2022-09-01,Maharashtra,Soybean,3806.7
+2022-10-01,Maharashtra,Soybean,3963.4
+2022-11-01,Maharashtra,Soybean,3750.5
+2022-12-01,Maharashtra,Soybean,4085.7
+2023-01-01,Maharashtra,Soybean,4153.9
+2023-02-01,Maharashtra,Soybean,4508.6
+2023-03-01,Maharashtra,Soybean,4378.8
+2023-04-01,Maharashtra,Soybean,4791.6
+2023-05-01,Maharashtra,Soybean,5003.3
+2023-06-01,Maharashtra,Soybean,5172.2
+2023-07-01,Maharashtra,Soybean,5268.8
+2023-08-01,Maharashtra,Soybean,5245.8
+2023-09-01,Maharashtra,Soybean,5590.5
+2023-10-01,Maharashtra,Soybean,5671.6
+2023-11-01,Maharashtra,Soybean,5175.9
+2023-12-01,Maharashtra,Soybean,4934.5
+2024-01-01,Maharashtra,Soybean,4924.5
+2024-02-01,Maharashtra,Soybean,5031.0
+2024-03-01,Maharashtra,Soybean,5050.4
+2024-04-01,Maharashtra,Soybean,5380.5
+2024-05-01,Maharashtra,Soybean,4910.9
+2024-06-01,Maharashtra,Soybean,4979.6
+2024-07-01,Maharashtra,Soybean,4579.6
+2024-08-01,Maharashtra,Soybean,4782.5
+2024-09-01,Maharashtra,Soybean,4797.8
+2024-10-01,Maharashtra,Soybean,4932.1
+2024-11-01,Maharashtra,Soybean,4763.6
+2024-12-01,Maharashtra,Soybean,5092.2
+2019-01-01,Maharashtra,Jowar,2906.1
+2019-02-01,Maharashtra,Jowar,3003.4
+2019-03-01,Maharashtra,Jowar,2940.0
+2019-04-01,Maharashtra,Jowar,3071.1
+2019-05-01,Maharashtra,Jowar,3309.9
+2019-06-01,Maharashtra,Jowar,3485.6
+2019-07-01,Maharashtra,Jowar,3405.7
+2019-08-01,Maharashtra,Jowar,3484.5
+2019-09-01,Maharashtra,Jowar,3322.6
+2019-10-01,Maharashtra,Jowar,3430.8
+2019-11-01,Maharashtra,Jowar,3526.0
+2019-12-01,Maharashtra,Jowar,3279.0
+2020-01-01,Maharashtra,Jowar,3147.8
+2020-02-01,Maharashtra,Jowar,3138.4
+2020-03-01,Maharashtra,Jowar,3126.0
+2020-04-01,Maharashtra,Jowar,2992.8
+2020-05-01,Maharashtra,Jowar,3066.4
+2020-06-01,Maharashtra,Jowar,3123.2
+2020-07-01,Maharashtra,Jowar,3122.1
+2020-08-01,Maharashtra,Jowar,3047.2
+2020-09-01,Maharashtra,Jowar,3206.8
+2020-10-01,Maharashtra,Jowar,3457.8
+2020-11-01,Maharashtra,Jowar,3417.3
+2020-12-01,Maharashtra,Jowar,3359.5
+2021-01-01,Maharashtra,Jowar,3459.5
+2021-02-01,Maharashtra,Jowar,3438.3
+2021-03-01,Maharashtra,Jowar,3448.1
+2021-04-01,Maharashtra,Jowar,3585.0
+2021-05-01,Maharashtra,Jowar,3325.4
+2021-06-01,Maharashtra,Jowar,3536.7
+2021-07-01,Maharashtra,Jowar,3575.2
+2021-08-01,Maharashtra,Jowar,3541.4
+2021-09-01,Maharashtra,Jowar,3556.8
+2021-10-01,Maharashtra,Jowar,3581.0
+2021-11-01,Maharashtra,Jowar,3350.5
+2021-12-01,Maharashtra,Jowar,3591.9
+2022-01-01,Maharashtra,Jowar,3630.7
+2022-02-01,Maharashtra,Jowar,3731.1
+2022-03-01,Maharashtra,Jowar,3913.7
+2022-04-01,Maharashtra,Jowar,3778.2
+2022-05-01,Maharashtra,Jowar,3884.5
+2022-06-01,Maharashtra,Jowar,3871.4
+2022-07-01,Maharashtra,Jowar,4040.0
+2022-08-01,Maharashtra,Jowar,3709.3
+2022-09-01,Maharashtra,Jowar,3723.9
+2022-10-01,Maharashtra,Jowar,3660.5
+2022-11-01,Maharashtra,Jowar,3759.1
+2022-12-01,Maharashtra,Jowar,3867.4
+2023-01-01,Maharashtra,Jowar,3786.7
+2023-02-01,Maharashtra,Jowar,3706.8
+2023-03-01,Maharashtra,Jowar,3721.9
+2023-04-01,Maharashtra,Jowar,3612.6
+2023-05-01,Maharashtra,Jowar,3770.4
+2023-06-01,Maharashtra,Jowar,3741.6
+2023-07-01,Maharashtra,Jowar,3312.0
+2023-08-01,Maharashtra,Jowar,3285.8
+2023-09-01,Maharashtra,Jowar,3168.5
+2023-10-01,Maharashtra,Jowar,2976.9
+2023-11-01,Maharashtra,Jowar,2847.3
+2023-12-01,Maharashtra,Jowar,2885.9
+2024-01-01,Maharashtra,Jowar,3074.0
+2024-02-01,Maharashtra,Jowar,3142.2
+2024-03-01,Maharashtra,Jowar,3089.2
+2024-04-01,Maharashtra,Jowar,3174.8
+2024-05-01,Maharashtra,Jowar,3139.2
+2024-06-01,Maharashtra,Jowar,3072.1
+2024-07-01,Maharashtra,Jowar,2946.6
+2024-08-01,Maharashtra,Jowar,2752.1
+2024-09-01,Maharashtra,Jowar,2729.1
+2024-10-01,Maharashtra,Jowar,2770.3
+2024-11-01,Maharashtra,Jowar,2783.1
+2024-12-01,Maharashtra,Jowar,2759.1
+2019-01-01,Madhya Pradesh,Soybean,4116.1
+2019-02-01,Madhya Pradesh,Soybean,4295.3
+2019-03-01,Madhya Pradesh,Soybean,4113.5
+2019-04-01,Madhya Pradesh,Soybean,3989.0
+2019-05-01,Madhya Pradesh,Soybean,3731.7
+2019-06-01,Madhya Pradesh,Soybean,3665.7
+2019-07-01,Madhya Pradesh,Soybean,3863.2
+2019-08-01,Madhya Pradesh,Soybean,3986.6
+2019-09-01,Madhya Pradesh,Soybean,4203.5
+2019-10-01,Madhya Pradesh,Soybean,4339.5
+2019-11-01,Madhya Pradesh,Soybean,4138.6
+2019-12-01,Madhya Pradesh,Soybean,4100.1
+2020-01-01,Madhya Pradesh,Soybean,3972.0
+2020-02-01,Madhya Pradesh,Soybean,4251.1
+2020-03-01,Madhya Pradesh,Soybean,4031.3
+2020-04-01,Madhya Pradesh,Soybean,4229.3
+2020-05-01,Madhya Pradesh,Soybean,4437.7
+2020-06-01,Madhya Pradesh,Soybean,4858.2
+2020-07-01,Madhya Pradesh,Soybean,4795.2
+2020-08-01,Madhya Pradesh,Soybean,4994.0
+2020-09-01,Madhya Pradesh,Soybean,5579.8
+2020-10-01,Madhya Pradesh,Soybean,5453.4
+2020-11-01,Madhya Pradesh,Soybean,5087.3
+2020-12-01,Madhya Pradesh,Soybean,4659.9
+2021-01-01,Madhya Pradesh,Soybean,4849.7
+2021-02-01,Madhya Pradesh,Soybean,4439.0
+2021-03-01,Madhya Pradesh,Soybean,4385.9
+2021-04-01,Madhya Pradesh,Soybean,4504.8
+2021-05-01,Madhya Pradesh,Soybean,4573.1
+2021-06-01,Madhya Pradesh,Soybean,4696.7
+2021-07-01,Madhya Pradesh,Soybean,4779.0
+2021-08-01,Madhya Pradesh,Soybean,5107.8
+2021-09-01,Madhya Pradesh,Soybean,4909.7
+2021-10-01,Madhya Pradesh,Soybean,4784.3
+2021-11-01,Madhya Pradesh,Soybean,4639.2
+2021-12-01,Madhya Pradesh,Soybean,4856.0
+2022-01-01,Madhya Pradesh,Soybean,5097.8
+2022-02-01,Madhya Pradesh,Soybean,5239.8
+2022-03-01,Madhya Pradesh,Soybean,5570.2
+2022-04-01,Madhya Pradesh,Soybean,5287.4
+2022-05-01,Madhya Pradesh,Soybean,5745.4
+2022-06-01,Madhya Pradesh,Soybean,6204.9
+2022-07-01,Madhya Pradesh,Soybean,6467.4
+2022-08-01,Madhya Pradesh,Soybean,7069.3
+2022-09-01,Madhya Pradesh,Soybean,6554.8
+2022-10-01,Madhya Pradesh,Soybean,6435.7
+2022-11-01,Madhya Pradesh,Soybean,6252.1
+2022-12-01,Madhya Pradesh,Soybean,6511.4
+2023-01-01,Madhya Pradesh,Soybean,6223.1
+2023-02-01,Madhya Pradesh,Soybean,6488.4
+2023-03-01,Madhya Pradesh,Soybean,6956.0
+2023-04-01,Madhya Pradesh,Soybean,7231.2
+2023-05-01,Madhya Pradesh,Soybean,7375.1
+2023-06-01,Madhya Pradesh,Soybean,7071.6
+2023-07-01,Madhya Pradesh,Soybean,6830.8
+2023-08-01,Madhya Pradesh,Soybean,7291.0
+2023-09-01,Madhya Pradesh,Soybean,7617.7
+2023-10-01,Madhya Pradesh,Soybean,7657.7
+2023-11-01,Madhya Pradesh,Soybean,7556.6
+2023-12-01,Madhya Pradesh,Soybean,6868.5
+2024-01-01,Madhya Pradesh,Soybean,6557.5
+2024-02-01,Madhya Pradesh,Soybean,7201.9
+2024-03-01,Madhya Pradesh,Soybean,6800.5
+2024-04-01,Madhya Pradesh,Soybean,6903.6
+2024-05-01,Madhya Pradesh,Soybean,7281.9
+2024-06-01,Madhya Pradesh,Soybean,6888.5
+2024-07-01,Madhya Pradesh,Soybean,6996.8
+2024-08-01,Madhya Pradesh,Soybean,7363.0
+2024-09-01,Madhya Pradesh,Soybean,7420.3
+2024-10-01,Madhya Pradesh,Soybean,8500.6
+2024-11-01,Madhya Pradesh,Soybean,7875.3
+2024-12-01,Madhya Pradesh,Soybean,8330.1
+2019-01-01,Madhya Pradesh,Wheat,2322.8
+2019-02-01,Madhya Pradesh,Wheat,2288.4
+2019-03-01,Madhya Pradesh,Wheat,2320.1
+2019-04-01,Madhya Pradesh,Wheat,2205.9
+2019-05-01,Madhya Pradesh,Wheat,2260.6
+2019-06-01,Madhya Pradesh,Wheat,2296.0
+2019-07-01,Madhya Pradesh,Wheat,2356.0
+2019-08-01,Madhya Pradesh,Wheat,2448.1
+2019-09-01,Madhya Pradesh,Wheat,2493.5
+2019-10-01,Madhya Pradesh,Wheat,2523.9
+2019-11-01,Madhya Pradesh,Wheat,2476.6
+2019-12-01,Madhya Pradesh,Wheat,2442.6
+2020-01-01,Madhya Pradesh,Wheat,2548.6
+2020-02-01,Madhya Pradesh,Wheat,2677.5
+2020-03-01,Madhya Pradesh,Wheat,2677.0
+2020-04-01,Madhya Pradesh,Wheat,2698.8
+2020-05-01,Madhya Pradesh,Wheat,2643.1
+2020-06-01,Madhya Pradesh,Wheat,2754.2
+2020-07-01,Madhya Pradesh,Wheat,2828.4
+2020-08-01,Madhya Pradesh,Wheat,3014.2
+2020-09-01,Madhya Pradesh,Wheat,2956.9
+2020-10-01,Madhya Pradesh,Wheat,2946.0
+2020-11-01,Madhya Pradesh,Wheat,2989.6
+2020-12-01,Madhya Pradesh,Wheat,3071.2
+2021-01-01,Madhya Pradesh,Wheat,3074.5
+2021-02-01,Madhya Pradesh,Wheat,3016.0
+2021-03-01,Madhya Pradesh,Wheat,3117.2
+2021-04-01,Madhya Pradesh,Wheat,3205.9
+2021-05-01,Madhya Pradesh,Wheat,3138.7
+2021-06-01,Madhya Pradesh,Wheat,3287.8
+2021-07-01,Madhya Pradesh,Wheat,3426.4
+2021-08-01,Madhya Pradesh,Wheat,3464.9
+2021-09-01,Madhya Pradesh,Wheat,3499.1
+2021-10-01,Madhya Pradesh,Wheat,3584.6
+2021-11-01,Madhya Pradesh,Wheat,3519.5
+2021-12-01,Madhya Pradesh,Wheat,3550.1
+2022-01-01,Madhya Pradesh,Wheat,3346.5
+2022-02-01,Madhya Pradesh,Wheat,3459.3
+2022-03-01,Madhya Pradesh,Wheat,3320.7
+2022-04-01,Madhya Pradesh,Wheat,3493.5
+2022-05-01,Madhya Pradesh,Wheat,3481.9
+2022-06-01,Madhya Pradesh,Wheat,3483.0
+2022-07-01,Madhya Pradesh,Wheat,3441.1
+2022-08-01,Madhya Pradesh,Wheat,3435.9
+2022-09-01,Madhya Pradesh,Wheat,3608.5
+2022-10-01,Madhya Pradesh,Wheat,3365.6
+2022-11-01,Madhya Pradesh,Wheat,3521.6
+2022-12-01,Madhya Pradesh,Wheat,3584.9
+2023-01-01,Madhya Pradesh,Wheat,3481.6
+2023-02-01,Madhya Pradesh,Wheat,3394.1
+2023-03-01,Madhya Pradesh,Wheat,3589.3
+2023-04-01,Madhya Pradesh,Wheat,3511.2
+2023-05-01,Madhya Pradesh,Wheat,3412.5
+2023-06-01,Madhya Pradesh,Wheat,3552.2
+2023-07-01,Madhya Pradesh,Wheat,3612.9
+2023-08-01,Madhya Pradesh,Wheat,3536.7
+2023-09-01,Madhya Pradesh,Wheat,3586.2
+2023-10-01,Madhya Pradesh,Wheat,3503.0
+2023-11-01,Madhya Pradesh,Wheat,3646.7
+2023-12-01,Madhya Pradesh,Wheat,3791.8
+2024-01-01,Madhya Pradesh,Wheat,3881.4
+2024-02-01,Madhya Pradesh,Wheat,3952.0
+2024-03-01,Madhya Pradesh,Wheat,4189.4
+2024-04-01,Madhya Pradesh,Wheat,4217.6
+2024-05-01,Madhya Pradesh,Wheat,4095.4
+2024-06-01,Madhya Pradesh,Wheat,4178.2
+2024-07-01,Madhya Pradesh,Wheat,4469.7
+2024-08-01,Madhya Pradesh,Wheat,4365.0
+2024-09-01,Madhya Pradesh,Wheat,4350.1
+2024-10-01,Madhya Pradesh,Wheat,4438.3
+2024-11-01,Madhya Pradesh,Wheat,4465.8
+2024-12-01,Madhya Pradesh,Wheat,4368.2
+2019-01-01,Madhya Pradesh,Gram,5378.2
+2019-02-01,Madhya Pradesh,Gram,5199.6
+2019-03-01,Madhya Pradesh,Gram,4873.9
+2019-04-01,Madhya Pradesh,Gram,4965.6
+2019-05-01,Madhya Pradesh,Gram,5248.2
+2019-06-01,Madhya Pradesh,Gram,5398.2
+2019-07-01,Madhya Pradesh,Gram,5436.9
+2019-08-01,Madhya Pradesh,Gram,5333.3
+2019-09-01,Madhya Pradesh,Gram,5111.8
+2019-10-01,Madhya Pradesh,Gram,5346.5
+2019-11-01,Madhya Pradesh,Gram,5611.6
+2019-12-01,Madhya Pradesh,Gram,5265.0
+2020-01-01,Madhya Pradesh,Gram,5685.7
+2020-02-01,Madhya Pradesh,Gram,5877.1
+2020-03-01,Madhya Pradesh,Gram,6292.4
+2020-04-01,Madhya Pradesh,Gram,5955.7
+2020-05-01,Madhya Pradesh,Gram,5629.9
+2020-06-01,Madhya Pradesh,Gram,5631.9
+2020-07-01,Madhya Pradesh,Gram,5801.0
+2020-08-01,Madhya Pradesh,Gram,6316.2
+2020-09-01,Madhya Pradesh,Gram,6567.8
+2020-10-01,Madhya Pradesh,Gram,6549.0
+2020-11-01,Madhya Pradesh,Gram,6298.8
+2020-12-01,Madhya Pradesh,Gram,6700.9
+2021-01-01,Madhya Pradesh,Gram,6462.0
+2021-02-01,Madhya Pradesh,Gram,6987.6
+2021-03-01,Madhya Pradesh,Gram,6949.4
+2021-04-01,Madhya Pradesh,Gram,7498.7
+2021-05-01,Madhya Pradesh,Gram,7781.6
+2021-06-01,Madhya Pradesh,Gram,7788.6
+2021-07-01,Madhya Pradesh,Gram,7662.5
+2021-08-01,Madhya Pradesh,Gram,7602.4
+2021-09-01,Madhya Pradesh,Gram,7809.7
+2021-10-01,Madhya Pradesh,Gram,7900.4
+2021-11-01,Madhya Pradesh,Gram,7753.2
+2021-12-01,Madhya Pradesh,Gram,7758.6
+2022-01-01,Madhya Pradesh,Gram,7848.1
+2022-02-01,Madhya Pradesh,Gram,7152.9
+2022-03-01,Madhya Pradesh,Gram,7353.9
+2022-04-01,Madhya Pradesh,Gram,7080.8
+2022-05-01,Madhya Pradesh,Gram,6761.5
+2022-06-01,Madhya Pradesh,Gram,6293.8
+2022-07-01,Madhya Pradesh,Gram,5829.2
+2022-08-01,Madhya Pradesh,Gram,5516.1
+2022-09-01,Madhya Pradesh,Gram,5382.7
+2022-10-01,Madhya Pradesh,Gram,5902.1
+2022-11-01,Madhya Pradesh,Gram,5810.3
+2022-12-01,Madhya Pradesh,Gram,5904.6
+2023-01-01,Madhya Pradesh,Gram,6058.7
+2023-02-01,Madhya Pradesh,Gram,6141.2
+2023-03-01,Madhya Pradesh,Gram,6165.1
+2023-04-01,Madhya Pradesh,Gram,5876.1
+2023-05-01,Madhya Pradesh,Gram,6302.8
+2023-06-01,Madhya Pradesh,Gram,6862.3
+2023-07-01,Madhya Pradesh,Gram,6390.3
+2023-08-01,Madhya Pradesh,Gram,6142.8
+2023-09-01,Madhya Pradesh,Gram,6113.5
+2023-10-01,Madhya Pradesh,Gram,5896.4
+2023-11-01,Madhya Pradesh,Gram,6079.9
+2023-12-01,Madhya Pradesh,Gram,5929.3
+2024-01-01,Madhya Pradesh,Gram,6557.5
+2024-02-01,Madhya Pradesh,Gram,6961.0
+2024-03-01,Madhya Pradesh,Gram,7079.3
+2024-04-01,Madhya Pradesh,Gram,7458.6
+2024-05-01,Madhya Pradesh,Gram,7883.9
+2024-06-01,Madhya Pradesh,Gram,7738.8
+2024-07-01,Madhya Pradesh,Gram,7509.7
+2024-08-01,Madhya Pradesh,Gram,7593.1
+2024-09-01,Madhya Pradesh,Gram,7949.0
+2024-10-01,Madhya Pradesh,Gram,8063.6
+2024-11-01,Madhya Pradesh,Gram,7554.6
+2024-12-01,Madhya Pradesh,Gram,7342.0
+2019-01-01,Karnataka,Ragi,3402.5
+2019-02-01,Karnataka,Ragi,3252.4
+2019-03-01,Karnataka,Ragi,3330.9
+2019-04-01,Karnataka,Ragi,3529.9
+2019-05-01,Karnataka,Ragi,3841.4
+2019-06-01,Karnataka,Ragi,3809.7
+2019-07-01,Karnataka,Ragi,3903.0
+2019-08-01,Karnataka,Ragi,4010.5
+2019-09-01,Karnataka,Ragi,4067.2
+2019-10-01,Karnataka,Ragi,4081.2
+2019-11-01,Karnataka,Ragi,4173.5
+2019-12-01,Karnataka,Ragi,3818.4
+2020-01-01,Karnataka,Ragi,3936.4
+2020-02-01,Karnataka,Ragi,3978.0
+2020-03-01,Karnataka,Ragi,3969.3
+2020-04-01,Karnataka,Ragi,4286.5
+2020-05-01,Karnataka,Ragi,4208.0
+2020-06-01,Karnataka,Ragi,4173.5
+2020-07-01,Karnataka,Ragi,4502.2
+2020-08-01,Karnataka,Ragi,4397.8
+2020-09-01,Karnataka,Ragi,4341.2
+2020-10-01,Karnataka,Ragi,4348.6
+2020-11-01,Karnataka,Ragi,4510.6
+2020-12-01,Karnataka,Ragi,4574.1
+2021-01-01,Karnataka,Ragi,4388.7
+2021-02-01,Karnataka,Ragi,4330.6
+2021-03-01,Karnataka,Ragi,4260.9
+2021-04-01,Karnataka,Ragi,4274.1
+2021-05-01,Karnataka,Ragi,4366.0
+2021-06-01,Karnataka,Ragi,4459.9
+2021-07-01,Karnataka,Ragi,4203.1
+2021-08-01,Karnataka,Ragi,4394.1
+2021-09-01,Karnataka,Ragi,4465.2
+2021-10-01,Karnataka,Ragi,4720.4
+2021-11-01,Karnataka,Ragi,4828.5
+2021-12-01,Karnataka,Ragi,5052.6
+2022-01-01,Karnataka,Ragi,5169.3
+2022-02-01,Karnataka,Ragi,5452.0
+2022-03-01,Karnataka,Ragi,5586.9
+2022-04-01,Karnataka,Ragi,5600.1
+2022-05-01,Karnataka,Ragi,6094.5
+2022-06-01,Karnataka,Ragi,6329.3
+2022-07-01,Karnataka,Ragi,6503.1
+2022-08-01,Karnataka,Ragi,6247.7
+2022-09-01,Karnataka,Ragi,6000.4
+2022-10-01,Karnataka,Ragi,6106.1
+2022-11-01,Karnataka,Ragi,6180.0
+2022-12-01,Karnataka,Ragi,6083.1
+2023-01-01,Karnataka,Ragi,6152.1
+2023-02-01,Karnataka,Ragi,6542.4
+2023-03-01,Karnataka,Ragi,6745.3
+2023-04-01,Karnataka,Ragi,6506.8
+2023-05-01,Karnataka,Ragi,6520.2
+2023-06-01,Karnataka,Ragi,6371.9
+2023-07-01,Karnataka,Ragi,6325.1
+2023-08-01,Karnataka,Ragi,6274.3
+2023-09-01,Karnataka,Ragi,6210.0
+2023-10-01,Karnataka,Ragi,5971.5
+2023-11-01,Karnataka,Ragi,5984.7
+2023-12-01,Karnataka,Ragi,5902.5
+2024-01-01,Karnataka,Ragi,5313.8
+2024-02-01,Karnataka,Ragi,5740.2
+2024-03-01,Karnataka,Ragi,5999.8
+2024-04-01,Karnataka,Ragi,5953.6
+2024-05-01,Karnataka,Ragi,5993.9
+2024-06-01,Karnataka,Ragi,5778.1
+2024-07-01,Karnataka,Ragi,6171.3
+2024-08-01,Karnataka,Ragi,6637.9
+2024-09-01,Karnataka,Ragi,6722.4
+2024-10-01,Karnataka,Ragi,7018.6
+2024-11-01,Karnataka,Ragi,7111.1
+2024-12-01,Karnataka,Ragi,6813.7
+2019-01-01,Karnataka,Maize,1983.9
+2019-02-01,Karnataka,Maize,1980.1
+2019-03-01,Karnataka,Maize,1986.4
+2019-04-01,Karnataka,Maize,1993.3
+2019-05-01,Karnataka,Maize,2010.3
+2019-06-01,Karnataka,Maize,1939.0
+2019-07-01,Karnataka,Maize,1895.9
+2019-08-01,Karnataka,Maize,1811.1
+2019-09-01,Karnataka,Maize,1890.6
+2019-10-01,Karnataka,Maize,1745.2
+2019-11-01,Karnataka,Maize,1834.3
+2019-12-01,Karnataka,Maize,1945.3
+2020-01-01,Karnataka,Maize,1934.7
+2020-02-01,Karnataka,Maize,1750.1
+2020-03-01,Karnataka,Maize,1737.1
+2020-04-01,Karnataka,Maize,1744.3
+2020-05-01,Karnataka,Maize,1686.5
+2020-06-01,Karnataka,Maize,1662.8
+2020-07-01,Karnataka,Maize,1772.2
+2020-08-01,Karnataka,Maize,1828.3
+2020-09-01,Karnataka,Maize,1772.2
+2020-10-01,Karnataka,Maize,1671.3
+2020-11-01,Karnataka,Maize,1659.6
+2020-12-01,Karnataka,Maize,1655.9
+2021-01-01,Karnataka,Maize,1698.8
+2021-02-01,Karnataka,Maize,1674.5
+2021-03-01,Karnataka,Maize,1719.3
+2021-04-01,Karnataka,Maize,1861.3
+2021-05-01,Karnataka,Maize,1932.8
+2021-06-01,Karnataka,Maize,1941.0
+2021-07-01,Karnataka,Maize,1938.4
+2021-08-01,Karnataka,Maize,1922.2
+2021-09-01,Karnataka,Maize,2021.8
+2021-10-01,Karnataka,Maize,1983.5
+2021-11-01,Karnataka,Maize,1998.6
+2021-12-01,Karnataka,Maize,2014.8
+2022-01-01,Karnataka,Maize,1988.2
+2022-02-01,Karnataka,Maize,1894.4
+2022-03-01,Karnataka,Maize,1931.2
+2022-04-01,Karnataka,Maize,1939.4
+2022-05-01,Karnataka,Maize,1990.0
+2022-06-01,Karnataka,Maize,1960.6
+2022-07-01,Karnataka,Maize,2065.8
+2022-08-01,Karnataka,Maize,2006.5
+2022-09-01,Karnataka,Maize,2152.2
+2022-10-01,Karnataka,Maize,2016.9
+2022-11-01,Karnataka,Maize,2063.1
+2022-12-01,Karnataka,Maize,2114.2
+2023-01-01,Karnataka,Maize,2061.9
+2023-02-01,Karnataka,Maize,2109.9
+2023-03-01,Karnataka,Maize,2230.0
+2023-04-01,Karnataka,Maize,2051.0
+2023-05-01,Karnataka,Maize,2104.7
+2023-06-01,Karnataka,Maize,1911.9
+2023-07-01,Karnataka,Maize,1850.7
+2023-08-01,Karnataka,Maize,1979.3
+2023-09-01,Karnataka,Maize,1945.1
+2023-10-01,Karnataka,Maize,1866.6
+2023-11-01,Karnataka,Maize,1863.0
+2023-12-01,Karnataka,Maize,2025.5
+2024-01-01,Karnataka,Maize,1893.1
+2024-02-01,Karnataka,Maize,1827.6
+2024-03-01,Karnataka,Maize,1947.3
+2024-04-01,Karnataka,Maize,2102.1
+2024-05-01,Karnataka,Maize,2107.1
+2024-06-01,Karnataka,Maize,2017.8
+2024-07-01,Karnataka,Maize,2195.2
+2024-08-01,Karnataka,Maize,2344.7
+2024-09-01,Karnataka,Maize,2420.1
+2024-10-01,Karnataka,Maize,2356.6
+2024-11-01,Karnataka,Maize,2365.9
+2024-12-01,Karnataka,Maize,2365.5
+2019-01-01,Karnataka,Cotton,7017.7
+2019-02-01,Karnataka,Cotton,6657.7
+2019-03-01,Karnataka,Cotton,7203.6
+2019-04-01,Karnataka,Cotton,7380.7
+2019-05-01,Karnataka,Cotton,7714.2
+2019-06-01,Karnataka,Cotton,8391.4
+2019-07-01,Karnataka,Cotton,7954.5
+2019-08-01,Karnataka,Cotton,8004.9
+2019-09-01,Karnataka,Cotton,7838.7
+2019-10-01,Karnataka,Cotton,7233.0
+2019-11-01,Karnataka,Cotton,7423.3
+2019-12-01,Karnataka,Cotton,8488.5
+2020-01-01,Karnataka,Cotton,7701.7
+2020-02-01,Karnataka,Cotton,7743.2
+2020-03-01,Karnataka,Cotton,8068.9
+2020-04-01,Karnataka,Cotton,8184.0
+2020-05-01,Karnataka,Cotton,8198.5
+2020-06-01,Karnataka,Cotton,7687.1
+2020-07-01,Karnataka,Cotton,7848.0
+2020-08-01,Karnataka,Cotton,7590.4
+2020-09-01,Karnataka,Cotton,6749.4
+2020-10-01,Karnataka,Cotton,7239.8
+2020-11-01,Karnataka,Cotton,7670.7
+2020-12-01,Karnataka,Cotton,7747.8
+2021-01-01,Karnataka,Cotton,7899.2
+2021-02-01,Karnataka,Cotton,8415.8
+2021-03-01,Karnataka,Cotton,8579.8
+2021-04-01,Karnataka,Cotton,9065.8
+2021-05-01,Karnataka,Cotton,8991.1
+2021-06-01,Karnataka,Cotton,9704.9
+2021-07-01,Karnataka,Cotton,9954.5
+2021-08-01,Karnataka,Cotton,10141.7
+2021-09-01,Karnataka,Cotton,9524.5
+2021-10-01,Karnataka,Cotton,9747.3
+2021-11-01,Karnataka,Cotton,9380.5
+2021-12-01,Karnataka,Cotton,9123.7
+2022-01-01,Karnataka,Cotton,8785.1
+2022-02-01,Karnataka,Cotton,8339.8
+2022-03-01,Karnataka,Cotton,9362.1
+2022-04-01,Karnataka,Cotton,10109.5
+2022-05-01,Karnataka,Cotton,11243.2
+2022-06-01,Karnataka,Cotton,10588.4
+2022-07-01,Karnataka,Cotton,10717.2
+2022-08-01,Karnataka,Cotton,10053.1
+2022-09-01,Karnataka,Cotton,9754.8
+2022-10-01,Karnataka,Cotton,9345.0
+2022-11-01,Karnataka,Cotton,10043.7
+2022-12-01,Karnataka,Cotton,9900.6
+2023-01-01,Karnataka,Cotton,10544.8
+2023-02-01,Karnataka,Cotton,10965.6
+2023-03-01,Karnataka,Cotton,12416.1
+2023-04-01,Karnataka,Cotton,11513.6
+2023-05-01,Karnataka,Cotton,12391.6
+2023-06-01,Karnataka,Cotton,13264.0
+2023-07-01,Karnataka,Cotton,12673.0
+2023-08-01,Karnataka,Cotton,13470.9
+2023-09-01,Karnataka,Cotton,13825.8
+2023-10-01,Karnataka,Cotton,13763.2
+2023-11-01,Karnataka,Cotton,13251.2
+2023-12-01,Karnataka,Cotton,12830.4
+2024-01-01,Karnataka,Cotton,14348.1
+2024-02-01,Karnataka,Cotton,14451.0
+2024-03-01,Karnataka,Cotton,15169.9
+2024-04-01,Karnataka,Cotton,14634.0
+2024-05-01,Karnataka,Cotton,14130.2
+2024-06-01,Karnataka,Cotton,15075.6
+2024-07-01,Karnataka,Cotton,14095.8
+2024-08-01,Karnataka,Cotton,13894.6
+2024-09-01,Karnataka,Cotton,14032.8
+2024-10-01,Karnataka,Cotton,14227.4
+2024-11-01,Karnataka,Cotton,14195.9
+2024-12-01,Karnataka,Cotton,14603.6
+2019-01-01,Rajasthan,Bajra,2400.7
+2019-02-01,Rajasthan,Bajra,2392.0
+2019-03-01,Rajasthan,Bajra,2531.8
+2019-04-01,Rajasthan,Bajra,2647.2
+2019-05-01,Rajasthan,Bajra,2514.3
+2019-06-01,Rajasthan,Bajra,2571.1
+2019-07-01,Rajasthan,Bajra,2377.0
+2019-08-01,Rajasthan,Bajra,2401.3
+2019-09-01,Rajasthan,Bajra,2614.3
+2019-10-01,Rajasthan,Bajra,2532.7
+2019-11-01,Rajasthan,Bajra,2466.0
+2019-12-01,Rajasthan,Bajra,2567.4
+2020-01-01,Rajasthan,Bajra,2422.4
+2020-02-01,Rajasthan,Bajra,2378.0
+2020-03-01,Rajasthan,Bajra,2457.0
+2020-04-01,Rajasthan,Bajra,2410.5
+2020-05-01,Rajasthan,Bajra,2405.1
+2020-06-01,Rajasthan,Bajra,2499.3
+2020-07-01,Rajasthan,Bajra,2563.6
+2020-08-01,Rajasthan,Bajra,2613.7
+2020-09-01,Rajasthan,Bajra,2598.6
+2020-10-01,Rajasthan,Bajra,2662.1
+2020-11-01,Rajasthan,Bajra,2672.0
+2020-12-01,Rajasthan,Bajra,2747.3
+2021-01-01,Rajasthan,Bajra,2713.4
+2021-02-01,Rajasthan,Bajra,2715.3
+2021-03-01,Rajasthan,Bajra,2623.7
+2021-04-01,Rajasthan,Bajra,2640.4
+2021-05-01,Rajasthan,Bajra,2570.4
+2021-06-01,Rajasthan,Bajra,2469.6
+2021-07-01,Rajasthan,Bajra,2516.2
+2021-08-01,Rajasthan,Bajra,2559.6
+2021-09-01,Rajasthan,Bajra,2666.1
+2021-10-01,Rajasthan,Bajra,2641.0
+2021-11-01,Rajasthan,Bajra,2710.1
+2021-12-01,Rajasthan,Bajra,2797.1
+2022-01-01,Rajasthan,Bajra,2873.9
+2022-02-01,Rajasthan,Bajra,2797.8
+2022-03-01,Rajasthan,Bajra,2838.0
+2022-04-01,Rajasthan,Bajra,2903.8
+2022-05-01,Rajasthan,Bajra,2927.1
+2022-06-01,Rajasthan,Bajra,2692.1
+2022-07-01,Rajasthan,Bajra,2731.8
+2022-08-01,Rajasthan,Bajra,3009.5
+2022-09-01,Rajasthan,Bajra,2989.5
+2022-10-01,Rajasthan,Bajra,2923.9
+2022-11-01,Rajasthan,Bajra,2996.1
+2022-12-01,Rajasthan,Bajra,3062.2
+2023-01-01,Rajasthan,Bajra,3242.9
+2023-02-01,Rajasthan,Bajra,3097.9
+2023-03-01,Rajasthan,Bajra,3218.5
+2023-04-01,Rajasthan,Bajra,3323.8
+2023-05-01,Rajasthan,Bajra,3329.5
+2023-06-01,Rajasthan,Bajra,3403.0
+2023-07-01,Rajasthan,Bajra,3577.9
+2023-08-01,Rajasthan,Bajra,3739.2
+2023-09-01,Rajasthan,Bajra,3590.7
+2023-10-01,Rajasthan,Bajra,3746.7
+2023-11-01,Rajasthan,Bajra,3769.9
+2023-12-01,Rajasthan,Bajra,3814.9
+2024-01-01,Rajasthan,Bajra,3859.7
+2024-02-01,Rajasthan,Bajra,3867.5
+2024-03-01,Rajasthan,Bajra,4093.2
+2024-04-01,Rajasthan,Bajra,4110.8
+2024-05-01,Rajasthan,Bajra,3948.4
+2024-06-01,Rajasthan,Bajra,3913.5
+2024-07-01,Rajasthan,Bajra,3974.2
+2024-08-01,Rajasthan,Bajra,4213.2
+2024-09-01,Rajasthan,Bajra,4356.5
+2024-10-01,Rajasthan,Bajra,4238.4
+2024-11-01,Rajasthan,Bajra,4721.1
+2024-12-01,Rajasthan,Bajra,4815.7
+2019-01-01,Rajasthan,Mustard,5427.9
+2019-02-01,Rajasthan,Mustard,5679.3
+2019-03-01,Rajasthan,Mustard,6041.5
+2019-04-01,Rajasthan,Mustard,6384.6
+2019-05-01,Rajasthan,Mustard,6694.6
+2019-06-01,Rajasthan,Mustard,6659.9
+2019-07-01,Rajasthan,Mustard,6547.0
+2019-08-01,Rajasthan,Mustard,6702.1
+2019-09-01,Rajasthan,Mustard,7040.8
+2019-10-01,Rajasthan,Mustard,7026.7
+2019-11-01,Rajasthan,Mustard,7420.6
+2019-12-01,Rajasthan,Mustard,7966.6
+2020-01-01,Rajasthan,Mustard,7701.1
+2020-02-01,Rajasthan,Mustard,7474.0
+2020-03-01,Rajasthan,Mustard,7491.4
+2020-04-01,Rajasthan,Mustard,7662.6
+2020-05-01,Rajasthan,Mustard,7550.4
+2020-06-01,Rajasthan,Mustard,8081.0
+2020-07-01,Rajasthan,Mustard,8308.1
+2020-08-01,Rajasthan,Mustard,8394.7
+2020-09-01,Rajasthan,Mustard,7919.6
+2020-10-01,Rajasthan,Mustard,7512.4
+2020-11-01,Rajasthan,Mustard,7667.3
+2020-12-01,Rajasthan,Mustard,6989.0
+2021-01-01,Rajasthan,Mustard,7365.5
+2021-02-01,Rajasthan,Mustard,7374.4
+2021-03-01,Rajasthan,Mustard,8520.2
+2021-04-01,Rajasthan,Mustard,9486.0
+2021-05-01,Rajasthan,Mustard,9494.4
+2021-06-01,Rajasthan,Mustard,9534.9
+2021-07-01,Rajasthan,Mustard,10049.4
+2021-08-01,Rajasthan,Mustard,10910.5
+2021-09-01,Rajasthan,Mustard,10193.3
+2021-10-01,Rajasthan,Mustard,9452.3
+2021-11-01,Rajasthan,Mustard,9261.4
+2021-12-01,Rajasthan,Mustard,9578.8
+2022-01-01,Rajasthan,Mustard,9871.4
+2022-02-01,Rajasthan,Mustard,10431.5
+2022-03-01,Rajasthan,Mustard,9955.9
+2022-04-01,Rajasthan,Mustard,9001.6
+2022-05-01,Rajasthan,Mustard,9432.9
+2022-06-01,Rajasthan,Mustard,9165.1
+2022-07-01,Rajasthan,Mustard,8409.8
+2022-08-01,Rajasthan,Mustard,8537.7
+2022-09-01,Rajasthan,Mustard,8915.0
+2022-10-01,Rajasthan,Mustard,8937.8
+2022-11-01,Rajasthan,Mustard,8823.6
+2022-12-01,Rajasthan,Mustard,8830.0
+2023-01-01,Rajasthan,Mustard,8753.5
+2023-02-01,Rajasthan,Mustard,8293.1
+2023-03-01,Rajasthan,Mustard,8096.9
+2023-04-01,Rajasthan,Mustard,8360.3
+2023-05-01,Rajasthan,Mustard,8558.0
+2023-06-01,Rajasthan,Mustard,8700.8
+2023-07-01,Rajasthan,Mustard,8386.6
+2023-08-01,Rajasthan,Mustard,8390.3
+2023-09-01,Rajasthan,Mustard,7634.2
+2023-10-01,Rajasthan,Mustard,7757.4
+2023-11-01,Rajasthan,Mustard,8319.8
+2023-12-01,Rajasthan,Mustard,7831.4
+2024-01-01,Rajasthan,Mustard,7687.3
+2024-02-01,Rajasthan,Mustard,7866.0
+2024-03-01,Rajasthan,Mustard,8380.0
+2024-04-01,Rajasthan,Mustard,8285.0
+2024-05-01,Rajasthan,Mustard,8100.8
+2024-06-01,Rajasthan,Mustard,7452.6
+2024-07-01,Rajasthan,Mustard,7553.9
+2024-08-01,Rajasthan,Mustard,8316.9
+2024-09-01,Rajasthan,Mustard,8490.6
+2024-10-01,Rajasthan,Mustard,8550.5
+2024-11-01,Rajasthan,Mustard,8742.7
+2024-12-01,Rajasthan,Mustard,8807.6
+2019-01-01,Rajasthan,Wheat,2237.6
+2019-02-01,Rajasthan,Wheat,2254.1
+2019-03-01,Rajasthan,Wheat,2202.4
+2019-04-01,Rajasthan,Wheat,2302.8
+2019-05-01,Rajasthan,Wheat,2363.1
+2019-06-01,Rajasthan,Wheat,2338.4
+2019-07-01,Rajasthan,Wheat,2423.9
+2019-08-01,Rajasthan,Wheat,2403.8
+2019-09-01,Rajasthan,Wheat,2364.0
+2019-10-01,Rajasthan,Wheat,2326.9
+2019-11-01,Rajasthan,Wheat,2219.7
+2019-12-01,Rajasthan,Wheat,2267.5
+2020-01-01,Rajasthan,Wheat,2158.4
+2020-02-01,Rajasthan,Wheat,2093.1
+2020-03-01,Rajasthan,Wheat,1975.8
+2020-04-01,Rajasthan,Wheat,1983.0
+2020-05-01,Rajasthan,Wheat,1986.3
+2020-06-01,Rajasthan,Wheat,1979.0
+2020-07-01,Rajasthan,Wheat,1929.5
+2020-08-01,Rajasthan,Wheat,1874.3
+2020-09-01,Rajasthan,Wheat,1913.6
+2020-10-01,Rajasthan,Wheat,1895.7
+2020-11-01,Rajasthan,Wheat,1927.7
+2020-12-01,Rajasthan,Wheat,1890.3
+2021-01-01,Rajasthan,Wheat,1914.1
+2021-02-01,Rajasthan,Wheat,2002.3
+2021-03-01,Rajasthan,Wheat,2050.7
+2021-04-01,Rajasthan,Wheat,2038.1
+2021-05-01,Rajasthan,Wheat,2066.4
+2021-06-01,Rajasthan,Wheat,2064.3
+2021-07-01,Rajasthan,Wheat,2078.0
+2021-08-01,Rajasthan,Wheat,2071.5
+2021-09-01,Rajasthan,Wheat,2075.8
+2021-10-01,Rajasthan,Wheat,2104.1
+2021-11-01,Rajasthan,Wheat,2056.5
+2021-12-01,Rajasthan,Wheat,2008.5
+2022-01-01,Rajasthan,Wheat,1938.6
+2022-02-01,Rajasthan,Wheat,1858.3
+2022-03-01,Rajasthan,Wheat,1802.2
+2022-04-01,Rajasthan,Wheat,1822.2
+2022-05-01,Rajasthan,Wheat,1784.4
+2022-06-01,Rajasthan,Wheat,1823.1
+2022-07-01,Rajasthan,Wheat,1836.6
+2022-08-01,Rajasthan,Wheat,1739.9
+2022-09-01,Rajasthan,Wheat,1786.5
+2022-10-01,Rajasthan,Wheat,1843.1
+2022-11-01,Rajasthan,Wheat,1801.4
+2022-12-01,Rajasthan,Wheat,1837.4
+2023-01-01,Rajasthan,Wheat,1803.0
+2023-02-01,Rajasthan,Wheat,1820.6
+2023-03-01,Rajasthan,Wheat,1763.0
+2023-04-01,Rajasthan,Wheat,1678.8
+2023-05-01,Rajasthan,Wheat,1669.8
+2023-06-01,Rajasthan,Wheat,1673.9
+2023-07-01,Rajasthan,Wheat,1664.6
+2023-08-01,Rajasthan,Wheat,1616.3
+2023-09-01,Rajasthan,Wheat,1608.1
+2023-10-01,Rajasthan,Wheat,1632.9
+2023-11-01,Rajasthan,Wheat,1642.7
+2023-12-01,Rajasthan,Wheat,1663.7
+2024-01-01,Rajasthan,Wheat,1641.9
+2024-02-01,Rajasthan,Wheat,1711.1
+2024-03-01,Rajasthan,Wheat,1661.5
+2024-04-01,Rajasthan,Wheat,1696.4
+2024-05-01,Rajasthan,Wheat,1767.2
+2024-06-01,Rajasthan,Wheat,1803.8
+2024-07-01,Rajasthan,Wheat,1804.3
+2024-08-01,Rajasthan,Wheat,1787.7
+2024-09-01,Rajasthan,Wheat,1856.1
+2024-10-01,Rajasthan,Wheat,1789.8
+2024-11-01,Rajasthan,Wheat,1750.6
+2024-12-01,Rajasthan,Wheat,1742.4
+2019-01-01,West Bengal,Rice,1951.8
+2019-02-01,West Bengal,Rice,1951.0
+2019-03-01,West Bengal,Rice,1933.8
+2019-04-01,West Bengal,Rice,1911.9
+2019-05-01,West Bengal,Rice,1978.1
+2019-06-01,West Bengal,Rice,1921.0
+2019-07-01,West Bengal,Rice,2021.6
+2019-08-01,West Bengal,Rice,2085.1
+2019-09-01,West Bengal,Rice,2165.7
+2019-10-01,West Bengal,Rice,2158.1
+2019-11-01,West Bengal,Rice,2168.3
+2019-12-01,West Bengal,Rice,2102.5
+2020-01-01,West Bengal,Rice,2089.9
+2020-02-01,West Bengal,Rice,2134.6
+2020-03-01,West Bengal,Rice,2226.4
+2020-04-01,West Bengal,Rice,2177.1
+2020-05-01,West Bengal,Rice,2173.2
+2020-06-01,West Bengal,Rice,2182.5
+2020-07-01,West Bengal,Rice,2118.7
+2020-08-01,West Bengal,Rice,2171.7
+2020-09-01,West Bengal,Rice,2148.7
+2020-10-01,West Bengal,Rice,2156.6
+2020-11-01,West Bengal,Rice,2149.2
+2020-12-01,West Bengal,Rice,2121.6
+2021-01-01,West Bengal,Rice,2138.6
+2021-02-01,West Bengal,Rice,2143.2
+2021-03-01,West Bengal,Rice,2138.4
+2021-04-01,West Bengal,Rice,2113.1
+2021-05-01,West Bengal,Rice,2148.5
+2021-06-01,West Bengal,Rice,2262.9
+2021-07-01,West Bengal,Rice,2291.1
+2021-08-01,West Bengal,Rice,2373.6
+2021-09-01,West Bengal,Rice,2305.5
+2021-10-01,West Bengal,Rice,2336.1
+2021-11-01,West Bengal,Rice,2287.2
+2021-12-01,West Bengal,Rice,2215.0
+2022-01-01,West Bengal,Rice,2188.9
+2022-02-01,West Bengal,Rice,2277.1
+2022-03-01,West Bengal,Rice,2353.7
+2022-04-01,West Bengal,Rice,2387.8
+2022-05-01,West Bengal,Rice,2307.8
+2022-06-01,West Bengal,Rice,2314.9
+2022-07-01,West Bengal,Rice,2353.9
+2022-08-01,West Bengal,Rice,2386.2
+2022-09-01,West Bengal,Rice,2288.3
+2022-10-01,West Bengal,Rice,2253.7
+2022-11-01,West Bengal,Rice,2269.6
+2022-12-01,West Bengal,Rice,2322.1
+2023-01-01,West Bengal,Rice,2202.8
+2023-02-01,West Bengal,Rice,2210.7
+2023-03-01,West Bengal,Rice,2236.7
+2023-04-01,West Bengal,Rice,2305.9
+2023-05-01,West Bengal,Rice,2367.9
+2023-06-01,West Bengal,Rice,2425.2
+2023-07-01,West Bengal,Rice,2393.6
+2023-08-01,West Bengal,Rice,2291.0
+2023-09-01,West Bengal,Rice,2287.3
+2023-10-01,West Bengal,Rice,2370.1
+2023-11-01,West Bengal,Rice,2480.7
+2023-12-01,West Bengal,Rice,2549.7
+2024-01-01,West Bengal,Rice,2600.4
+2024-02-01,West Bengal,Rice,2648.0
+2024-03-01,West Bengal,Rice,2628.9
+2024-04-01,West Bengal,Rice,2640.4
+2024-05-01,West Bengal,Rice,2781.3
+2024-06-01,West Bengal,Rice,2733.4
+2024-07-01,West Bengal,Rice,2877.0
+2024-08-01,West Bengal,Rice,2877.5
+2024-09-01,West Bengal,Rice,3007.1
+2024-10-01,West Bengal,Rice,2919.4
+2024-11-01,West Bengal,Rice,2991.6
+2024-12-01,West Bengal,Rice,2957.3
+2019-01-01,West Bengal,Jute,4936.1
+2019-02-01,West Bengal,Jute,4833.0
+2019-03-01,West Bengal,Jute,4626.2
+2019-04-01,West Bengal,Jute,4642.9
+2019-05-01,West Bengal,Jute,4658.9
+2019-06-01,West Bengal,Jute,4772.1
+2019-07-01,West Bengal,Jute,4951.0
+2019-08-01,West Bengal,Jute,4971.4
+2019-09-01,West Bengal,Jute,5308.5
+2019-10-01,West Bengal,Jute,5383.0
+2019-11-01,West Bengal,Jute,5358.2
+2019-12-01,West Bengal,Jute,5109.9
+2020-01-01,West Bengal,Jute,5102.2
+2020-02-01,West Bengal,Jute,5081.8
+2020-03-01,West Bengal,Jute,5279.0
+2020-04-01,West Bengal,Jute,5395.0
+2020-05-01,West Bengal,Jute,5218.3
+2020-06-01,West Bengal,Jute,5280.0
+2020-07-01,West Bengal,Jute,5429.3
+2020-08-01,West Bengal,Jute,5737.4
+2020-09-01,West Bengal,Jute,5942.3
+2020-10-01,West Bengal,Jute,6131.4
+2020-11-01,West Bengal,Jute,6185.9
+2020-12-01,West Bengal,Jute,6309.7
+2021-01-01,West Bengal,Jute,6616.9
+2021-02-01,West Bengal,Jute,6371.6
+2021-03-01,West Bengal,Jute,6342.0
+2021-04-01,West Bengal,Jute,6221.6
+2021-05-01,West Bengal,Jute,6339.3
+2021-06-01,West Bengal,Jute,6636.6
+2021-07-01,West Bengal,Jute,6545.2
+2021-08-01,West Bengal,Jute,6066.5
+2021-09-01,West Bengal,Jute,6021.8
+2021-10-01,West Bengal,Jute,6243.9
+2021-11-01,West Bengal,Jute,6398.3
+2021-12-01,West Bengal,Jute,6534.8
+2022-01-01,West Bengal,Jute,6521.3
+2022-02-01,West Bengal,Jute,6291.2
+2022-03-01,West Bengal,Jute,6442.4
+2022-04-01,West Bengal,Jute,6307.0
+2022-05-01,West Bengal,Jute,6803.7
+2022-06-01,West Bengal,Jute,6974.0
+2022-07-01,West Bengal,Jute,6881.7
+2022-08-01,West Bengal,Jute,6784.2
+2022-09-01,West Bengal,Jute,6806.0
+2022-10-01,West Bengal,Jute,6796.8
+2022-11-01,West Bengal,Jute,7095.5
+2022-12-01,West Bengal,Jute,7189.9
+2023-01-01,West Bengal,Jute,7067.3
+2023-02-01,West Bengal,Jute,7561.1
+2023-03-01,West Bengal,Jute,7626.0
+2023-04-01,West Bengal,Jute,7871.2
+2023-05-01,West Bengal,Jute,7762.4
+2023-06-01,West Bengal,Jute,7903.3
+2023-07-01,West Bengal,Jute,8032.4
+2023-08-01,West Bengal,Jute,7578.1
+2023-09-01,West Bengal,Jute,8132.2
+2023-10-01,West Bengal,Jute,8533.9
+2023-11-01,West Bengal,Jute,8480.3
+2023-12-01,West Bengal,Jute,8230.5
+2024-01-01,West Bengal,Jute,8384.9
+2024-02-01,West Bengal,Jute,8469.0
+2024-03-01,West Bengal,Jute,8627.7
+2024-04-01,West Bengal,Jute,8739.9
+2024-05-01,West Bengal,Jute,8942.1
+2024-06-01,West Bengal,Jute,9425.8
+2024-07-01,West Bengal,Jute,9660.0
+2024-08-01,West Bengal,Jute,9382.7
+2024-09-01,West Bengal,Jute,9865.6
+2024-10-01,West Bengal,Jute,10467.4
+2024-11-01,West Bengal,Jute,11634.1
+2024-12-01,West Bengal,Jute,11283.3
+2019-01-01,West Bengal,Potato,1216.9
+2019-02-01,West Bengal,Potato,1175.7
+2019-03-01,West Bengal,Potato,1355.3
+2019-04-01,West Bengal,Potato,1287.0
+2019-05-01,West Bengal,Potato,1133.5
+2019-06-01,West Bengal,Potato,1102.5
+2019-07-01,West Bengal,Potato,947.0
+2019-08-01,West Bengal,Potato,1008.0
+2019-09-01,West Bengal,Potato,858.5
+2019-10-01,West Bengal,Potato,866.5
+2019-11-01,West Bengal,Potato,736.9
+2019-12-01,West Bengal,Potato,724.3
+2020-01-01,West Bengal,Potato,819.2
+2020-02-01,West Bengal,Potato,847.5
+2020-03-01,West Bengal,Potato,798.9
+2020-04-01,West Bengal,Potato,803.4
+2020-05-01,West Bengal,Potato,811.1
+2020-06-01,West Bengal,Potato,846.6
+2020-07-01,West Bengal,Potato,766.1
+2020-08-01,West Bengal,Potato,806.2
+2020-09-01,West Bengal,Potato,647.9
+2020-10-01,West Bengal,Potato,621.8
+2020-11-01,West Bengal,Potato,603.2
+2020-12-01,West Bengal,Potato,636.2
+2021-01-01,West Bengal,Potato,641.9
+2021-02-01,West Bengal,Potato,578.6
+2021-03-01,West Bengal,Potato,540.2
+2021-04-01,West Bengal,Potato,552.6
+2021-05-01,West Bengal,Potato,553.8
+2021-06-01,West Bengal,Potato,534.1
+2021-07-01,West Bengal,Potato,519.0
+2021-08-01,West Bengal,Potato,550.2
+2021-09-01,West Bengal,Potato,532.9
+2021-10-01,West Bengal,Potato,533.1
+2021-11-01,West Bengal,Potato,624.0
+2021-12-01,West Bengal,Potato,561.4
+2022-01-01,West Bengal,Potato,487.1
+2022-02-01,West Bengal,Potato,519.5
+2022-03-01,West Bengal,Potato,496.9
+2022-04-01,West Bengal,Potato,489.0
+2022-05-01,West Bengal,Potato,480.0
+2022-06-01,West Bengal,Potato,480.0
+2022-07-01,West Bengal,Potato,541.7
+2022-08-01,West Bengal,Potato,578.6
+2022-09-01,West Bengal,Potato,620.5
+2022-10-01,West Bengal,Potato,558.7
+2022-11-01,West Bengal,Potato,514.2
+2022-12-01,West Bengal,Potato,480.0
+2023-01-01,West Bengal,Potato,480.0
+2023-02-01,West Bengal,Potato,518.2
+2023-03-01,West Bengal,Potato,542.4
+2023-04-01,West Bengal,Potato,537.7
+2023-05-01,West Bengal,Potato,541.1
+2023-06-01,West Bengal,Potato,517.4
+2023-07-01,West Bengal,Potato,529.6
+2023-08-01,West Bengal,Potato,564.2
+2023-09-01,West Bengal,Potato,499.7
+2023-10-01,West Bengal,Potato,514.5
+2023-11-01,West Bengal,Potato,554.3
+2023-12-01,West Bengal,Potato,540.8
+2024-01-01,West Bengal,Potato,573.2
+2024-02-01,West Bengal,Potato,699.1
+2024-03-01,West Bengal,Potato,699.0
+2024-04-01,West Bengal,Potato,725.3
+2024-05-01,West Bengal,Potato,690.9
+2024-06-01,West Bengal,Potato,705.9
+2024-07-01,West Bengal,Potato,736.1
+2024-08-01,West Bengal,Potato,752.6
+2024-09-01,West Bengal,Potato,700.3
+2024-10-01,West Bengal,Potato,716.2
+2024-11-01,West Bengal,Potato,800.1
+2024-12-01,West Bengal,Potato,832.7
+2019-01-01,Bihar,Rice,1968.6
+2019-02-01,Bihar,Rice,1999.6
+2019-03-01,Bihar,Rice,1964.1
+2019-04-01,Bihar,Rice,1997.0
+2019-05-01,Bihar,Rice,1959.8
+2019-06-01,Bihar,Rice,1943.0
+2019-07-01,Bihar,Rice,1970.2
+2019-08-01,Bihar,Rice,2004.1
+2019-09-01,Bihar,Rice,1958.0
+2019-10-01,Bihar,Rice,2032.0
+2019-11-01,Bihar,Rice,2081.9
+2019-12-01,Bihar,Rice,2060.3
+2020-01-01,Bihar,Rice,1991.8
+2020-02-01,Bihar,Rice,2000.2
+2020-03-01,Bihar,Rice,1992.2
+2020-04-01,Bihar,Rice,2014.4
+2020-05-01,Bihar,Rice,2011.3
+2020-06-01,Bihar,Rice,1919.0
+2020-07-01,Bihar,Rice,1915.8
+2020-08-01,Bihar,Rice,1917.4
+2020-09-01,Bihar,Rice,1968.1
+2020-10-01,Bihar,Rice,1948.9
+2020-11-01,Bihar,Rice,2055.3
+2020-12-01,Bihar,Rice,1966.7
+2021-01-01,Bihar,Rice,2053.2
+2021-02-01,Bihar,Rice,2057.5
+2021-03-01,Bihar,Rice,2122.1
+2021-04-01,Bihar,Rice,2143.9
+2021-05-01,Bihar,Rice,2227.9
+2021-06-01,Bihar,Rice,2223.6
+2021-07-01,Bihar,Rice,2177.0
+2021-08-01,Bihar,Rice,2280.9
+2021-09-01,Bihar,Rice,2294.9
+2021-10-01,Bihar,Rice,2329.9
+2021-11-01,Bihar,Rice,2429.0
+2021-12-01,Bihar,Rice,2382.2
+2022-01-01,Bihar,Rice,2440.8
+2022-02-01,Bihar,Rice,2421.7
+2022-03-01,Bihar,Rice,2432.6
+2022-04-01,Bihar,Rice,2457.1
+2022-05-01,Bihar,Rice,2377.4
+2022-06-01,Bihar,Rice,2347.6
+2022-07-01,Bihar,Rice,2454.5
+2022-08-01,Bihar,Rice,2536.0
+2022-09-01,Bihar,Rice,2555.1
+2022-10-01,Bihar,Rice,2595.5
+2022-11-01,Bihar,Rice,2598.2
+2022-12-01,Bihar,Rice,2716.6
+2023-01-01,Bihar,Rice,2724.8
+2023-02-01,Bihar,Rice,2764.2
+2023-03-01,Bihar,Rice,2872.4
+2023-04-01,Bihar,Rice,2835.1
+2023-05-01,Bihar,Rice,2978.4
+2023-06-01,Bihar,Rice,2880.3
+2023-07-01,Bihar,Rice,3033.3
+2023-08-01,Bihar,Rice,3030.3
+2023-09-01,Bihar,Rice,3038.4
+2023-10-01,Bihar,Rice,2910.5
+2023-11-01,Bihar,Rice,2900.8
+2023-12-01,Bihar,Rice,2844.3
+2024-01-01,Bihar,Rice,2821.4
+2024-02-01,Bihar,Rice,2834.0
+2024-03-01,Bihar,Rice,2930.4
+2024-04-01,Bihar,Rice,2970.7
+2024-05-01,Bihar,Rice,3020.1
+2024-06-01,Bihar,Rice,2956.2
+2024-07-01,Bihar,Rice,2911.8
+2024-08-01,Bihar,Rice,3080.6
+2024-09-01,Bihar,Rice,3047.6
+2024-10-01,Bihar,Rice,3212.7
+2024-11-01,Bihar,Rice,3220.5
+2024-12-01,Bihar,Rice,3248.9
+2019-01-01,Bihar,Wheat,2191.4
+2019-02-01,Bihar,Wheat,2183.4
+2019-03-01,Bihar,Wheat,2196.7
+2019-04-01,Bihar,Wheat,2235.5
+2019-05-01,Bihar,Wheat,2312.1
+2019-06-01,Bihar,Wheat,2329.6
+2019-07-01,Bihar,Wheat,2390.9
+2019-08-01,Bihar,Wheat,2528.0
+2019-09-01,Bihar,Wheat,2577.9
+2019-10-01,Bihar,Wheat,2624.1
+2019-11-01,Bihar,Wheat,2526.4
+2019-12-01,Bihar,Wheat,2347.5
+2020-01-01,Bihar,Wheat,2394.6
+2020-02-01,Bihar,Wheat,2407.0
+2020-03-01,Bihar,Wheat,2388.3
+2020-04-01,Bihar,Wheat,2423.8
+2020-05-01,Bihar,Wheat,2437.3
+2020-06-01,Bihar,Wheat,2538.3
+2020-07-01,Bihar,Wheat,2564.3
+2020-08-01,Bihar,Wheat,2526.9
+2020-09-01,Bihar,Wheat,2623.2
+2020-10-01,Bihar,Wheat,2628.3
+2020-11-01,Bihar,Wheat,2692.7
+2020-12-01,Bihar,Wheat,2676.9
+2021-01-01,Bihar,Wheat,2646.8
+2021-02-01,Bihar,Wheat,2674.8
+2021-03-01,Bihar,Wheat,2696.6
+2021-04-01,Bihar,Wheat,2755.8
+2021-05-01,Bihar,Wheat,2753.9
+2021-06-01,Bihar,Wheat,2622.0
+2021-07-01,Bihar,Wheat,2607.9
+2021-08-01,Bihar,Wheat,2691.0
+2021-09-01,Bihar,Wheat,2689.1
+2021-10-01,Bihar,Wheat,2691.9
+2021-11-01,Bihar,Wheat,2795.2
+2021-12-01,Bihar,Wheat,2759.0
+2022-01-01,Bihar,Wheat,2653.7
+2022-02-01,Bihar,Wheat,2662.2
+2022-03-01,Bihar,Wheat,2644.0
+2022-04-01,Bihar,Wheat,2586.8
+2022-05-01,Bihar,Wheat,2592.3
+2022-06-01,Bihar,Wheat,2650.0
+2022-07-01,Bihar,Wheat,2669.5
+2022-08-01,Bihar,Wheat,2715.5
+2022-09-01,Bihar,Wheat,2886.4
+2022-10-01,Bihar,Wheat,2881.0
+2022-11-01,Bihar,Wheat,2930.0
+2022-12-01,Bihar,Wheat,2910.0
+2023-01-01,Bihar,Wheat,2860.0
+2023-02-01,Bihar,Wheat,2832.6
+2023-03-01,Bihar,Wheat,2813.7
+2023-04-01,Bihar,Wheat,2865.3
+2023-05-01,Bihar,Wheat,3089.3
+2023-06-01,Bihar,Wheat,3045.7
+2023-07-01,Bihar,Wheat,3030.7
+2023-08-01,Bihar,Wheat,3049.0
+2023-09-01,Bihar,Wheat,3110.6
+2023-10-01,Bihar,Wheat,3161.7
+2023-11-01,Bihar,Wheat,3311.4
+2023-12-01,Bihar,Wheat,3097.3
+2024-01-01,Bihar,Wheat,2900.2
+2024-02-01,Bihar,Wheat,2880.2
+2024-03-01,Bihar,Wheat,2997.8
+2024-04-01,Bihar,Wheat,2878.8
+2024-05-01,Bihar,Wheat,2639.2
+2024-06-01,Bihar,Wheat,2704.3
+2024-07-01,Bihar,Wheat,2744.9
+2024-08-01,Bihar,Wheat,2676.5
+2024-09-01,Bihar,Wheat,2619.0
+2024-10-01,Bihar,Wheat,2564.6
+2024-11-01,Bihar,Wheat,2595.2
+2024-12-01,Bihar,Wheat,2568.4
+2019-01-01,Bihar,Maize,1833.9
+2019-02-01,Bihar,Maize,1641.4
+2019-03-01,Bihar,Maize,1597.9
+2019-04-01,Bihar,Maize,1538.5
+2019-05-01,Bihar,Maize,1533.5
+2019-06-01,Bihar,Maize,1511.0
+2019-07-01,Bihar,Maize,1567.6
+2019-08-01,Bihar,Maize,1462.8
+2019-09-01,Bihar,Maize,1473.9
+2019-10-01,Bihar,Maize,1515.0
+2019-11-01,Bihar,Maize,1634.5
+2019-12-01,Bihar,Maize,1614.2
+2020-01-01,Bihar,Maize,1645.7
+2020-02-01,Bihar,Maize,1540.8
+2020-03-01,Bihar,Maize,1407.1
+2020-04-01,Bihar,Maize,1463.6
+2020-05-01,Bihar,Maize,1473.2
+2020-06-01,Bihar,Maize,1550.8
+2020-07-01,Bihar,Maize,1476.9
+2020-08-01,Bihar,Maize,1515.8
+2020-09-01,Bihar,Maize,1635.6
+2020-10-01,Bihar,Maize,1672.2
+2020-11-01,Bihar,Maize,1700.7
+2020-12-01,Bihar,Maize,1712.2
+2021-01-01,Bihar,Maize,1618.4
+2021-02-01,Bihar,Maize,1715.7
+2021-03-01,Bihar,Maize,1686.8
+2021-04-01,Bihar,Maize,1731.9
+2021-05-01,Bihar,Maize,1637.5
+2021-06-01,Bihar,Maize,1572.4
+2021-07-01,Bihar,Maize,1670.5
+2021-08-01,Bihar,Maize,1657.7
+2021-09-01,Bihar,Maize,1761.9
+2021-10-01,Bihar,Maize,1766.9
+2021-11-01,Bihar,Maize,1650.3
+2021-12-01,Bihar,Maize,1718.7
+2022-01-01,Bihar,Maize,1690.6
+2022-02-01,Bihar,Maize,1748.7
+2022-03-01,Bihar,Maize,1762.8
+2022-04-01,Bihar,Maize,1668.5
+2022-05-01,Bihar,Maize,1690.5
+2022-06-01,Bihar,Maize,1847.0
+2022-07-01,Bihar,Maize,1894.0
+2022-08-01,Bihar,Maize,1901.1
+2022-09-01,Bihar,Maize,1992.3
+2022-10-01,Bihar,Maize,2020.6
+2022-11-01,Bihar,Maize,2049.6
+2022-12-01,Bihar,Maize,1975.2
+2023-01-01,Bihar,Maize,2006.7
+2023-02-01,Bihar,Maize,2102.2
+2023-03-01,Bihar,Maize,2048.1
+2023-04-01,Bihar,Maize,2176.9
+2023-05-01,Bihar,Maize,2183.8
+2023-06-01,Bihar,Maize,2121.9
+2023-07-01,Bihar,Maize,2218.0
+2023-08-01,Bihar,Maize,2206.3
+2023-09-01,Bihar,Maize,2284.8
+2023-10-01,Bihar,Maize,2272.3
+2023-11-01,Bihar,Maize,2281.0
+2023-12-01,Bihar,Maize,2339.9
+2024-01-01,Bihar,Maize,2382.4
+2024-02-01,Bihar,Maize,2212.7
+2024-03-01,Bihar,Maize,2131.0
+2024-04-01,Bihar,Maize,2223.6
+2024-05-01,Bihar,Maize,2227.1
+2024-06-01,Bihar,Maize,2195.8
+2024-07-01,Bihar,Maize,2092.5
+2024-08-01,Bihar,Maize,2016.4
+2024-09-01,Bihar,Maize,1868.5
+2024-10-01,Bihar,Maize,1872.3
+2024-11-01,Bihar,Maize,1839.9
+2024-12-01,Bihar,Maize,1782.1
+2019-01-01,Gujarat,Cotton,7727.5
+2019-02-01,Gujarat,Cotton,7145.4
+2019-03-01,Gujarat,Cotton,7643.7
+2019-04-01,Gujarat,Cotton,8101.9
+2019-05-01,Gujarat,Cotton,7819.5
+2019-06-01,Gujarat,Cotton,7966.0
+2019-07-01,Gujarat,Cotton,7830.5
+2019-08-01,Gujarat,Cotton,7970.6
+2019-09-01,Gujarat,Cotton,8684.6
+2019-10-01,Gujarat,Cotton,9033.9
+2019-11-01,Gujarat,Cotton,9346.9
+2019-12-01,Gujarat,Cotton,9192.2
+2020-01-01,Gujarat,Cotton,8513.4
+2020-02-01,Gujarat,Cotton,8474.0
+2020-03-01,Gujarat,Cotton,9086.7
+2020-04-01,Gujarat,Cotton,8398.5
+2020-05-01,Gujarat,Cotton,7980.0
+2020-06-01,Gujarat,Cotton,8096.2
+2020-07-01,Gujarat,Cotton,7726.7
+2020-08-01,Gujarat,Cotton,7454.6
+2020-09-01,Gujarat,Cotton,7340.1
+2020-10-01,Gujarat,Cotton,6850.0
+2020-11-01,Gujarat,Cotton,6536.2
+2020-12-01,Gujarat,Cotton,6830.0
+2021-01-01,Gujarat,Cotton,6391.2
+2021-02-01,Gujarat,Cotton,5879.9
+2021-03-01,Gujarat,Cotton,5719.2
+2021-04-01,Gujarat,Cotton,5987.2
+2021-05-01,Gujarat,Cotton,5967.8
+2021-06-01,Gujarat,Cotton,5863.2
+2021-07-01,Gujarat,Cotton,5923.2
+2021-08-01,Gujarat,Cotton,5408.0
+2021-09-01,Gujarat,Cotton,5594.6
+2021-10-01,Gujarat,Cotton,5752.2
+2021-11-01,Gujarat,Cotton,5665.0
+2021-12-01,Gujarat,Cotton,6012.5
+2022-01-01,Gujarat,Cotton,5684.9
+2022-02-01,Gujarat,Cotton,6070.6
+2022-03-01,Gujarat,Cotton,6163.1
+2022-04-01,Gujarat,Cotton,6094.5
+2022-05-01,Gujarat,Cotton,6133.3
+2022-06-01,Gujarat,Cotton,6144.8
+2022-07-01,Gujarat,Cotton,6600.1
+2022-08-01,Gujarat,Cotton,6265.8
+2022-09-01,Gujarat,Cotton,6054.2
+2022-10-01,Gujarat,Cotton,6439.3
+2022-11-01,Gujarat,Cotton,6276.6
+2022-12-01,Gujarat,Cotton,6625.8
+2023-01-01,Gujarat,Cotton,7280.7
+2023-02-01,Gujarat,Cotton,7170.6
+2023-03-01,Gujarat,Cotton,7484.8
+2023-04-01,Gujarat,Cotton,7069.6
+2023-05-01,Gujarat,Cotton,7411.8
+2023-06-01,Gujarat,Cotton,7549.1
+2023-07-01,Gujarat,Cotton,7802.2
+2023-08-01,Gujarat,Cotton,7589.6
+2023-09-01,Gujarat,Cotton,6963.2
+2023-10-01,Gujarat,Cotton,7204.6
+2023-11-01,Gujarat,Cotton,6448.7
+2023-12-01,Gujarat,Cotton,6381.5
+2024-01-01,Gujarat,Cotton,6749.7
+2024-02-01,Gujarat,Cotton,6865.0
+2024-03-01,Gujarat,Cotton,7637.7
+2024-04-01,Gujarat,Cotton,8117.0
+2024-05-01,Gujarat,Cotton,7889.3
+2024-06-01,Gujarat,Cotton,7961.8
+2024-07-01,Gujarat,Cotton,8003.7
+2024-08-01,Gujarat,Cotton,7378.6
+2024-09-01,Gujarat,Cotton,7058.2
+2024-10-01,Gujarat,Cotton,6895.3
+2024-11-01,Gujarat,Cotton,6182.1
+2024-12-01,Gujarat,Cotton,6240.0
+2019-01-01,Gujarat,Groundnut,5673.4
+2019-02-01,Gujarat,Groundnut,5920.7
+2019-03-01,Gujarat,Groundnut,6029.9
+2019-04-01,Gujarat,Groundnut,5971.1
+2019-05-01,Gujarat,Groundnut,6194.0
+2019-06-01,Gujarat,Groundnut,6455.3
+2019-07-01,Gujarat,Groundnut,6606.3
+2019-08-01,Gujarat,Groundnut,6379.0
+2019-09-01,Gujarat,Groundnut,6520.5
+2019-10-01,Gujarat,Groundnut,6972.2
+2019-11-01,Gujarat,Groundnut,6813.1
+2019-12-01,Gujarat,Groundnut,7596.8
+2020-01-01,Gujarat,Groundnut,7446.7
+2020-02-01,Gujarat,Groundnut,7510.7
+2020-03-01,Gujarat,Groundnut,7303.1
+2020-04-01,Gujarat,Groundnut,7436.6
+2020-05-01,Gujarat,Groundnut,6825.1
+2020-06-01,Gujarat,Groundnut,6684.0
+2020-07-01,Gujarat,Groundnut,6360.8
+2020-08-01,Gujarat,Groundnut,6455.0
+2020-09-01,Gujarat,Groundnut,6835.9
+2020-10-01,Gujarat,Groundnut,7116.8
+2020-11-01,Gujarat,Groundnut,6306.7
+2020-12-01,Gujarat,Groundnut,7014.1
+2021-01-01,Gujarat,Groundnut,7170.5
+2021-02-01,Gujarat,Groundnut,6935.0
+2021-03-01,Gujarat,Groundnut,7038.0
+2021-04-01,Gujarat,Groundnut,7149.7
+2021-05-01,Gujarat,Groundnut,6955.7
+2021-06-01,Gujarat,Groundnut,7077.2
+2021-07-01,Gujarat,Groundnut,6910.8
+2021-08-01,Gujarat,Groundnut,6821.9
+2021-09-01,Gujarat,Groundnut,6636.4
+2021-10-01,Gujarat,Groundnut,6201.6
+2021-11-01,Gujarat,Groundnut,6296.2
+2021-12-01,Gujarat,Groundnut,6532.3
+2022-01-01,Gujarat,Groundnut,6751.5
+2022-02-01,Gujarat,Groundnut,7081.9
+2022-03-01,Gujarat,Groundnut,7247.8
+2022-04-01,Gujarat,Groundnut,7099.6
+2022-05-01,Gujarat,Groundnut,7455.0
+2022-06-01,Gujarat,Groundnut,6990.9
+2022-07-01,Gujarat,Groundnut,6721.4
+2022-08-01,Gujarat,Groundnut,6442.0
+2022-09-01,Gujarat,Groundnut,6850.4
+2022-10-01,Gujarat,Groundnut,7236.1
+2022-11-01,Gujarat,Groundnut,7473.2
+2022-12-01,Gujarat,Groundnut,7939.8
+2023-01-01,Gujarat,Groundnut,7639.1
+2023-02-01,Gujarat,Groundnut,7828.4
+2023-03-01,Gujarat,Groundnut,7831.5
+2023-04-01,Gujarat,Groundnut,8224.9
+2023-05-01,Gujarat,Groundnut,8234.2
+2023-06-01,Gujarat,Groundnut,8132.0
+2023-07-01,Gujarat,Groundnut,8419.5
+2023-08-01,Gujarat,Groundnut,8864.1
+2023-09-01,Gujarat,Groundnut,8631.2
+2023-10-01,Gujarat,Groundnut,8672.9
+2023-11-01,Gujarat,Groundnut,8269.7
+2023-12-01,Gujarat,Groundnut,7272.7
+2024-01-01,Gujarat,Groundnut,7399.6
+2024-02-01,Gujarat,Groundnut,7681.7
+2024-03-01,Gujarat,Groundnut,7837.1
+2024-04-01,Gujarat,Groundnut,7108.1
+2024-05-01,Gujarat,Groundnut,7030.3
+2024-06-01,Gujarat,Groundnut,6282.5
+2024-07-01,Gujarat,Groundnut,6771.5
+2024-08-01,Gujarat,Groundnut,6447.8
+2024-09-01,Gujarat,Groundnut,6914.5
+2024-10-01,Gujarat,Groundnut,7304.9
+2024-11-01,Gujarat,Groundnut,7024.4
+2024-12-01,Gujarat,Groundnut,6669.1
+2019-01-01,Gujarat,Bajra,2201.4
+2019-02-01,Gujarat,Bajra,2174.2
+2019-03-01,Gujarat,Bajra,2027.6
+2019-04-01,Gujarat,Bajra,1852.0
+2019-05-01,Gujarat,Bajra,1883.4
+2019-06-01,Gujarat,Bajra,1852.7
+2019-07-01,Gujarat,Bajra,1823.7
+2019-08-01,Gujarat,Bajra,1891.7
+2019-09-01,Gujarat,Bajra,2001.0
+2019-10-01,Gujarat,Bajra,1994.9
+2019-11-01,Gujarat,Bajra,1983.3
+2019-12-01,Gujarat,Bajra,2042.1
+2020-01-01,Gujarat,Bajra,1942.1
+2020-02-01,Gujarat,Bajra,1976.0
+2020-03-01,Gujarat,Bajra,2037.3
+2020-04-01,Gujarat,Bajra,2111.0
+2020-05-01,Gujarat,Bajra,1954.2
+2020-06-01,Gujarat,Bajra,1905.9
+2020-07-01,Gujarat,Bajra,1849.8
+2020-08-01,Gujarat,Bajra,1872.3
+2020-09-01,Gujarat,Bajra,1925.7
+2020-10-01,Gujarat,Bajra,2063.7
+2020-11-01,Gujarat,Bajra,2038.3
+2020-12-01,Gujarat,Bajra,2012.9
+2021-01-01,Gujarat,Bajra,2127.3
+2021-02-01,Gujarat,Bajra,2171.1
+2021-03-01,Gujarat,Bajra,2304.0
+2021-04-01,Gujarat,Bajra,2349.3
+2021-05-01,Gujarat,Bajra,2252.0
+2021-06-01,Gujarat,Bajra,2142.1
+2021-07-01,Gujarat,Bajra,2018.2
+2021-08-01,Gujarat,Bajra,2090.6
+2021-09-01,Gujarat,Bajra,2212.7
+2021-10-01,Gujarat,Bajra,2404.2
+2021-11-01,Gujarat,Bajra,2510.5
+2021-12-01,Gujarat,Bajra,2655.2
+2022-01-01,Gujarat,Bajra,2612.3
+2022-02-01,Gujarat,Bajra,2505.8
+2022-03-01,Gujarat,Bajra,2615.0
+2022-04-01,Gujarat,Bajra,2680.7
+2022-05-01,Gujarat,Bajra,2712.6
+2022-06-01,Gujarat,Bajra,2777.1
+2022-07-01,Gujarat,Bajra,2836.2
+2022-08-01,Gujarat,Bajra,3012.4
+2022-09-01,Gujarat,Bajra,3201.9
+2022-10-01,Gujarat,Bajra,3302.6
+2022-11-01,Gujarat,Bajra,3448.9
+2022-12-01,Gujarat,Bajra,3553.2
+2023-01-01,Gujarat,Bajra,3513.6
+2023-02-01,Gujarat,Bajra,3654.0
+2023-03-01,Gujarat,Bajra,3467.2
+2023-04-01,Gujarat,Bajra,3647.4
+2023-05-01,Gujarat,Bajra,3490.5
+2023-06-01,Gujarat,Bajra,3558.6
+2023-07-01,Gujarat,Bajra,3458.8
+2023-08-01,Gujarat,Bajra,3567.0
+2023-09-01,Gujarat,Bajra,3591.3
+2023-10-01,Gujarat,Bajra,3379.8
+2023-11-01,Gujarat,Bajra,3468.9
+2023-12-01,Gujarat,Bajra,3413.8
+2024-01-01,Gujarat,Bajra,3569.2
+2024-02-01,Gujarat,Bajra,3598.1
+2024-03-01,Gujarat,Bajra,3686.0
+2024-04-01,Gujarat,Bajra,3564.7
+2024-05-01,Gujarat,Bajra,3502.4
+2024-06-01,Gujarat,Bajra,3460.7
+2024-07-01,Gujarat,Bajra,3612.2
+2024-08-01,Gujarat,Bajra,3896.5
+2024-09-01,Gujarat,Bajra,3796.1
+2024-10-01,Gujarat,Bajra,4000.9
+2024-11-01,Gujarat,Bajra,3668.6
+2024-12-01,Gujarat,Bajra,3514.9
+2019-01-01,Andhra Pradesh,Rice,2097.4
+2019-02-01,Andhra Pradesh,Rice,2033.9
+2019-03-01,Andhra Pradesh,Rice,1959.4
+2019-04-01,Andhra Pradesh,Rice,1993.7
+2019-05-01,Andhra Pradesh,Rice,1995.1
+2019-06-01,Andhra Pradesh,Rice,2029.2
+2019-07-01,Andhra Pradesh,Rice,2081.7
+2019-08-01,Andhra Pradesh,Rice,2112.0
+2019-09-01,Andhra Pradesh,Rice,2165.5
+2019-10-01,Andhra Pradesh,Rice,2177.6
+2019-11-01,Andhra Pradesh,Rice,2123.2
+2019-12-01,Andhra Pradesh,Rice,2199.0
+2020-01-01,Andhra Pradesh,Rice,2178.5
+2020-02-01,Andhra Pradesh,Rice,2137.2
+2020-03-01,Andhra Pradesh,Rice,2140.3
+2020-04-01,Andhra Pradesh,Rice,2100.9
+2020-05-01,Andhra Pradesh,Rice,2090.8
+2020-06-01,Andhra Pradesh,Rice,2124.5
+2020-07-01,Andhra Pradesh,Rice,2159.7
+2020-08-01,Andhra Pradesh,Rice,2122.9
+2020-09-01,Andhra Pradesh,Rice,2110.7
+2020-10-01,Andhra Pradesh,Rice,2188.0
+2020-11-01,Andhra Pradesh,Rice,2233.3
+2020-12-01,Andhra Pradesh,Rice,2374.7
+2021-01-01,Andhra Pradesh,Rice,2466.5
+2021-02-01,Andhra Pradesh,Rice,2558.9
+2021-03-01,Andhra Pradesh,Rice,2478.7
+2021-04-01,Andhra Pradesh,Rice,2545.7
+2021-05-01,Andhra Pradesh,Rice,2558.6
+2021-06-01,Andhra Pradesh,Rice,2537.8
+2021-07-01,Andhra Pradesh,Rice,2567.4
+2021-08-01,Andhra Pradesh,Rice,2652.2
+2021-09-01,Andhra Pradesh,Rice,2708.1
+2021-10-01,Andhra Pradesh,Rice,2663.7
+2021-11-01,Andhra Pradesh,Rice,2736.7
+2021-12-01,Andhra Pradesh,Rice,2708.4
+2022-01-01,Andhra Pradesh,Rice,2742.4
+2022-02-01,Andhra Pradesh,Rice,2737.4
+2022-03-01,Andhra Pradesh,Rice,2738.4
+2022-04-01,Andhra Pradesh,Rice,2812.6
+2022-05-01,Andhra Pradesh,Rice,2751.6
+2022-06-01,Andhra Pradesh,Rice,2915.5
+2022-07-01,Andhra Pradesh,Rice,2792.1
+2022-08-01,Andhra Pradesh,Rice,2767.4
+2022-09-01,Andhra Pradesh,Rice,2815.9
+2022-10-01,Andhra Pradesh,Rice,2881.5
+2022-11-01,Andhra Pradesh,Rice,2894.6
+2022-12-01,Andhra Pradesh,Rice,2910.2
+2023-01-01,Andhra Pradesh,Rice,2962.0
+2023-02-01,Andhra Pradesh,Rice,2962.5
+2023-03-01,Andhra Pradesh,Rice,3093.0
+2023-04-01,Andhra Pradesh,Rice,3183.0
+2023-05-01,Andhra Pradesh,Rice,3279.1
+2023-06-01,Andhra Pradesh,Rice,3215.5
+2023-07-01,Andhra Pradesh,Rice,3231.4
+2023-08-01,Andhra Pradesh,Rice,3228.8
+2023-09-01,Andhra Pradesh,Rice,3164.8
+2023-10-01,Andhra Pradesh,Rice,3219.3
+2023-11-01,Andhra Pradesh,Rice,3195.7
+2023-12-01,Andhra Pradesh,Rice,3274.8
+2024-01-01,Andhra Pradesh,Rice,3201.6
+2024-02-01,Andhra Pradesh,Rice,3371.4
+2024-03-01,Andhra Pradesh,Rice,3310.6
+2024-04-01,Andhra Pradesh,Rice,3351.3
+2024-05-01,Andhra Pradesh,Rice,3445.1
+2024-06-01,Andhra Pradesh,Rice,3415.2
+2024-07-01,Andhra Pradesh,Rice,3518.5
+2024-08-01,Andhra Pradesh,Rice,3426.9
+2024-09-01,Andhra Pradesh,Rice,3587.7
+2024-10-01,Andhra Pradesh,Rice,3615.8
+2024-11-01,Andhra Pradesh,Rice,3583.5
+2024-12-01,Andhra Pradesh,Rice,3579.4
+2019-01-01,Andhra Pradesh,Cotton,5815.3
+2019-02-01,Andhra Pradesh,Cotton,5791.4
+2019-03-01,Andhra Pradesh,Cotton,5468.4
+2019-04-01,Andhra Pradesh,Cotton,6054.2
+2019-05-01,Andhra Pradesh,Cotton,5920.6
+2019-06-01,Andhra Pradesh,Cotton,6240.7
+2019-07-01,Andhra Pradesh,Cotton,6368.2
+2019-08-01,Andhra Pradesh,Cotton,6085.3
+2019-09-01,Andhra Pradesh,Cotton,6137.2
+2019-10-01,Andhra Pradesh,Cotton,6451.0
+2019-11-01,Andhra Pradesh,Cotton,6438.5
+2019-12-01,Andhra Pradesh,Cotton,6906.7
+2020-01-01,Andhra Pradesh,Cotton,7343.8
+2020-02-01,Andhra Pradesh,Cotton,7767.8
+2020-03-01,Andhra Pradesh,Cotton,7636.8
+2020-04-01,Andhra Pradesh,Cotton,7253.1
+2020-05-01,Andhra Pradesh,Cotton,7074.4
+2020-06-01,Andhra Pradesh,Cotton,7212.8
+2020-07-01,Andhra Pradesh,Cotton,7491.9
+2020-08-01,Andhra Pradesh,Cotton,6676.2
+2020-09-01,Andhra Pradesh,Cotton,6732.4
+2020-10-01,Andhra Pradesh,Cotton,6847.9
+2020-11-01,Andhra Pradesh,Cotton,6801.4
+2020-12-01,Andhra Pradesh,Cotton,7332.3
+2021-01-01,Andhra Pradesh,Cotton,7557.7
+2021-02-01,Andhra Pradesh,Cotton,8154.5
+2021-03-01,Andhra Pradesh,Cotton,8124.8
+2021-04-01,Andhra Pradesh,Cotton,8606.0
+2021-05-01,Andhra Pradesh,Cotton,9444.3
+2021-06-01,Andhra Pradesh,Cotton,10201.2
+2021-07-01,Andhra Pradesh,Cotton,9688.6
+2021-08-01,Andhra Pradesh,Cotton,9642.6
+2021-09-01,Andhra Pradesh,Cotton,9547.4
+2021-10-01,Andhra Pradesh,Cotton,9882.8
+2021-11-01,Andhra Pradesh,Cotton,10332.5
+2021-12-01,Andhra Pradesh,Cotton,9945.1
+2022-01-01,Andhra Pradesh,Cotton,10060.0
+2022-02-01,Andhra Pradesh,Cotton,9037.3
+2022-03-01,Andhra Pradesh,Cotton,9817.1
+2022-04-01,Andhra Pradesh,Cotton,9626.2
+2022-05-01,Andhra Pradesh,Cotton,9738.8
+2022-06-01,Andhra Pradesh,Cotton,9661.9
+2022-07-01,Andhra Pradesh,Cotton,10350.7
+2022-08-01,Andhra Pradesh,Cotton,8849.4
+2022-09-01,Andhra Pradesh,Cotton,8919.8
+2022-10-01,Andhra Pradesh,Cotton,8945.1
+2022-11-01,Andhra Pradesh,Cotton,8798.9
+2022-12-01,Andhra Pradesh,Cotton,9693.3
+2023-01-01,Andhra Pradesh,Cotton,9303.1
+2023-02-01,Andhra Pradesh,Cotton,9766.0
+2023-03-01,Andhra Pradesh,Cotton,10033.5
+2023-04-01,Andhra Pradesh,Cotton,10804.2
+2023-05-01,Andhra Pradesh,Cotton,10506.5
+2023-06-01,Andhra Pradesh,Cotton,10182.1
+2023-07-01,Andhra Pradesh,Cotton,10880.4
+2023-08-01,Andhra Pradesh,Cotton,11229.9
+2023-09-01,Andhra Pradesh,Cotton,10387.5
+2023-10-01,Andhra Pradesh,Cotton,10172.5
+2023-11-01,Andhra Pradesh,Cotton,10469.9
+2023-12-01,Andhra Pradesh,Cotton,11029.6
+2024-01-01,Andhra Pradesh,Cotton,10710.1
+2024-02-01,Andhra Pradesh,Cotton,9101.7
+2024-03-01,Andhra Pradesh,Cotton,9433.5
+2024-04-01,Andhra Pradesh,Cotton,8887.6
+2024-05-01,Andhra Pradesh,Cotton,7991.4
+2024-06-01,Andhra Pradesh,Cotton,6833.8
+2024-07-01,Andhra Pradesh,Cotton,7197.7
+2024-08-01,Andhra Pradesh,Cotton,7313.0
+2024-09-01,Andhra Pradesh,Cotton,7288.2
+2024-10-01,Andhra Pradesh,Cotton,7900.2
+2024-11-01,Andhra Pradesh,Cotton,8238.7
+2024-12-01,Andhra Pradesh,Cotton,9027.0
+2019-01-01,Andhra Pradesh,Chilli,10769.4
+2019-02-01,Andhra Pradesh,Chilli,10670.4
+2019-03-01,Andhra Pradesh,Chilli,10560.6
+2019-04-01,Andhra Pradesh,Chilli,11067.8
+2019-05-01,Andhra Pradesh,Chilli,11176.4
+2019-06-01,Andhra Pradesh,Chilli,11717.4
+2019-07-01,Andhra Pradesh,Chilli,12348.5
+2019-08-01,Andhra Pradesh,Chilli,14202.9
+2019-09-01,Andhra Pradesh,Chilli,14004.8
+2019-10-01,Andhra Pradesh,Chilli,13224.4
+2019-11-01,Andhra Pradesh,Chilli,13524.7
+2019-12-01,Andhra Pradesh,Chilli,12888.2
+2020-01-01,Andhra Pradesh,Chilli,14231.6
+2020-02-01,Andhra Pradesh,Chilli,14050.0
+2020-03-01,Andhra Pradesh,Chilli,13610.1
+2020-04-01,Andhra Pradesh,Chilli,13272.8
+2020-05-01,Andhra Pradesh,Chilli,13995.4
+2020-06-01,Andhra Pradesh,Chilli,13947.4
+2020-07-01,Andhra Pradesh,Chilli,13453.5
+2020-08-01,Andhra Pradesh,Chilli,15036.7
+2020-09-01,Andhra Pradesh,Chilli,14287.4
+2020-10-01,Andhra Pradesh,Chilli,14416.8
+2020-11-01,Andhra Pradesh,Chilli,15132.5
+2020-12-01,Andhra Pradesh,Chilli,13588.6
+2021-01-01,Andhra Pradesh,Chilli,14102.6
+2021-02-01,Andhra Pradesh,Chilli,13201.1
+2021-03-01,Andhra Pradesh,Chilli,14003.0
+2021-04-01,Andhra Pradesh,Chilli,13199.6
+2021-05-01,Andhra Pradesh,Chilli,13895.8
+2021-06-01,Andhra Pradesh,Chilli,15013.3
+2021-07-01,Andhra Pradesh,Chilli,15979.4
+2021-08-01,Andhra Pradesh,Chilli,16360.2
+2021-09-01,Andhra Pradesh,Chilli,16223.3
+2021-10-01,Andhra Pradesh,Chilli,15711.6
+2021-11-01,Andhra Pradesh,Chilli,17344.7
+2021-12-01,Andhra Pradesh,Chilli,16646.6
+2022-01-01,Andhra Pradesh,Chilli,15602.0
+2022-02-01,Andhra Pradesh,Chilli,16384.0
+2022-03-01,Andhra Pradesh,Chilli,15620.6
+2022-04-01,Andhra Pradesh,Chilli,14737.4
+2022-05-01,Andhra Pradesh,Chilli,13425.9
+2022-06-01,Andhra Pradesh,Chilli,13090.2
+2022-07-01,Andhra Pradesh,Chilli,13112.3
+2022-08-01,Andhra Pradesh,Chilli,13417.6
+2022-09-01,Andhra Pradesh,Chilli,14358.2
+2022-10-01,Andhra Pradesh,Chilli,14956.2
+2022-11-01,Andhra Pradesh,Chilli,14862.5
+2022-12-01,Andhra Pradesh,Chilli,14758.3
+2023-01-01,Andhra Pradesh,Chilli,15345.8
+2023-02-01,Andhra Pradesh,Chilli,16732.8
+2023-03-01,Andhra Pradesh,Chilli,16976.5
+2023-04-01,Andhra Pradesh,Chilli,16558.2
+2023-05-01,Andhra Pradesh,Chilli,15579.8
+2023-06-01,Andhra Pradesh,Chilli,14195.3
+2023-07-01,Andhra Pradesh,Chilli,14924.9
+2023-08-01,Andhra Pradesh,Chilli,15604.2
+2023-09-01,Andhra Pradesh,Chilli,16310.8
+2023-10-01,Andhra Pradesh,Chilli,16280.9
+2023-11-01,Andhra Pradesh,Chilli,17903.9
+2023-12-01,Andhra Pradesh,Chilli,17439.0
+2024-01-01,Andhra Pradesh,Chilli,18647.9
+2024-02-01,Andhra Pradesh,Chilli,18712.2
+2024-03-01,Andhra Pradesh,Chilli,18073.3
+2024-04-01,Andhra Pradesh,Chilli,18900.5
+2024-05-01,Andhra Pradesh,Chilli,19542.4
+2024-06-01,Andhra Pradesh,Chilli,20142.9
+2024-07-01,Andhra Pradesh,Chilli,20396.1
+2024-08-01,Andhra Pradesh,Chilli,20490.6
+2024-09-01,Andhra Pradesh,Chilli,23881.0
+2024-10-01,Andhra Pradesh,Chilli,25917.1
+2024-11-01,Andhra Pradesh,Chilli,27325.0
+2024-12-01,Andhra Pradesh,Chilli,27695.0
